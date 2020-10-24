@@ -1,0 +1,744 @@
+,document,word1,word2,word3,word4,word5,class
+0,Alfred Tarski_5 Further reading.txt,logical-8,truth-8,tarski-7,bibliography-5,feferman-5,logic
+1,Aristotles Logic_1 Introduction.txt,logic-4,modern-4,formal-3,remarkable-3,logical-2,logic
+2,Ancient Logic_3 The early Peripatetics Theophrastus and Eudemus.txt,theophrastus-24,syllogisms-16,figure-13,first-11,fortenbaugh-10,logic
+3,Logical Constants_Further reading.txt,see-7,approach-5,logical-4,discussion-3,recent-2,logic
+4,Logic and Artificial Intelligence_2 John McCarthy and Common Sense Logicism10.txt,reasoning-9,logical-8,mccarthy-8,methodology-5,research-4,logic
+5,Propositional Function_12 Conclusion.txt,propositional-3,functions-3,logic-2,brief-1,history-1,logic
+6,Logical Form_7 Notation and Restricted Quantification.txt,boy-25,form-14,one-13,sang-9,logical-9,logic
+7,Bertrand Russell_2 Russells Work in Logic.txt,theory-19,mathematics-14,logic-13,russell-11,set-9,logic
+8,Bernard Bolzano_2 Bolzanos Main Writings.txt,mathematics-4,bolzano-3,logic-3,work-2,three-2,logic
+9,Model Theory_1 Basic notions of model theory.txt,model-13,sentence-8,theory-8,true-7,interpretation-7,logic
+10,Logical Pluralism_2 Logical Pluralism via Linguistic Pluralism.txt,logical-22,logic-19,carnap-16,meaning-16,rules-13,logic
+11,Logical Constants_4 Topic neutrality.txt,logic-14,topicneutral-13,might-12,logical-11,topic-11,logic
+12,Medieval Theories of the Syllogism_3 Arabic Logic and Syllogisms.txt,sentences-30,logic-25,avicenna-17,absolute-15,arabic-14,logic
+13,The Notation in Principia Mathematica_1 Why Learn the Symbolism in Principia Mathematica.txt,notation-7,logic-5,contemporary-4,symbolic-3,mathematics-3,logic
+14,Logic and Artificial Intelligence_1 Logic and Artificial Intelligence.txt,logic-68,philosophical-39,logical-30,reasoning-26,new-13,logic
+15,Medieval Theories of the Syllogism_10 Summary.txt,modal-6,theory-5,logic-5,syllogistic-4,buridan-3,logic
+16,Willard Van Orman Quine_1 Quines life and work.txt,published-11,logic-3,ohio-2,attended-2,mathematical-2,logic
+17,Modal Logic_5 Conditional and Relevance Logics.txt,logics-6,logic-5,modal-3,lewis-3,developed-3,logic
+18,Logical Constants_5 Permutation invariance.txt,logical-47,domain-30,permutation-30,invariance-24,objects-21,logic
+19,Willard Van Orman Quine_7 Quines place in the history of philosophy.txt,philosophy-7,work-6,philosophers-5,metaphysics-5,logical-4,logic
+20,Propositional Function_1 PreHistory.txt,term-9,properties-8,intensional-8,logic-7,terms-6,logic
+21,Set Theory_8 Forcing.txt,model-14,one-12,forcing-10,generic-9,set-8,logic
+22,Bertrand Russell_4 Russells Theory of Definite Descriptions.txt,logical-10,russell-9,sentence-9,true-8,king-8,logic
+23,Logic and Artificial Intelligence_4 Reasoning about Action and Change21.txt,problem-57,action-47,actions-45,logic-44,reasoning-35,logic
+24,Rudolf Carnap_9 Final Years and Legacy.txt,carnap-9,philosophers-5,logical-4,empiricism-4,movement-3,logic
+25,Vagueness_4 Manyvalued Logic.txt,logic-11,manyvalued-9,truthvalues-9,truth-8,lines-7,logic
+26,Ludwig Wittgenstein_2 The Early Wittgenstein.txt,propositions-36,wittgenstein-21,tractatus-20,world-17,logical-17,logic
+27,"Logic and Artificial Intelligence_9 Logical Approaches to Natural Language and 
+Communication.txt",linguistic-11,logic-8,reasoning-7,information-7,discourse-7,logic
+28,Modal Logic_12 Advanced Modal Logic.txt,modal-8,logic-6,mathematics-2,computer-2,science-2,logic
+29,Second order and Higher order Logic_16 Finite Model Theory.txt,finite-9,logic-8,secondorder-7,models-6,infinite-4,logic
+30,Constructive Mathematics_3 Varieties of Constructive Mathematics.txt,mathematics-48,constructive-28,logic-21,intuitionistic-20,one-17,logic
+31,The Computational Theory of Mind_7 Arguments against computationalism.txt,computational-19,physical-16,model-15,temporal-14,mental-12,logic
+32,Second order and Higher order Logic_8 Decidability Results.txt,monadic-20,secondorder-15,theory-11,vocabulary-8,logic-8,logic
+33,Classical Logic_6 The One Right Logic.txt,logic-25,classical-11,one-8,right-8,reasoning-5,logic
+34,Logical Constants_1 Syncategorematic terms.txt,logical-13,syncategorematic-10,function-9,constants-8,terms-8,logic
+35,Analysis_6 Conceptions of Analysis in Analytic Philosophy and the Introduction of the Logical Transformative Conception.txt,analysis-30,analytic-18,logical-15,see-15,philosophy-13,logic
+36,Second order and Higher order Logic_5 The Infamous Power of SecondOrder Logic.txt,logic-36,secondorder-32,set-21,order-16,first-15,logic
+37,Ancient Logic_2 Aristotle.txt,aristotle-30,sentences-20,syllogisms-20,term-12,logic-11,logic
+38,Medieval Theories of the Syllogism_9 Later Medieval Developments of the Theory.txt,logic-7,syllogistic-5,buridan-5,aristotle-5,little-3,logic
+39,Logical Form_6 Regimentation and Communicative Slack.txt,language-24,sentences-19,logical-15,propositions-12,natural-12,logic
+40,Logical Empiricism_1 Mapping the Movement.txt,logical-21,movement-13,vienna-10,berlin-10,empiricism-10,logic
+41,Ancient Logic_6 Epicurus and the Epicureans.txt,epicureans-5,usener-5,utterances-5,logic-3,language-3,logic
+42,Second order and Higher order Logic_13 Foundations of Mathematics.txt,secondorder-26,set-22,logic-22,theory-19,axioms-17,logic
+43,Logical Form_8 Transformational Grammar.txt,structure-25,grammatical-22,logical-12,form-12,language-12,logic
+44,Second order and Higher order Logic_3 The Semantics of SecondOrder Logic.txt,logic-23,secondorder-16,set-14,player-13,order-12,logic
+45,Principia Mathematica_4 Volume I.txt,theory-95,logic-66,variables-55,types-53,function-50,logic
+46,Logical Consequence_2 Formal and Material Consequence.txt,logical-10,formal-7,permutation-7,form-6,content-6,logic
+47,Logical Empiricism_2 Background.txt,logical-15,philosophy-15,could-12,empirical-12,logic-12,logic
+48,Alfred Tarski_3 Logical consequence.txt,tarski-41,logical-21,consequence-21,lar-20,sentence-18,logic
+49,Quantifiers and Quantification_1 Classical Quantificational Logic.txt,logic-33,model-31,quantificational-29,formula-26,langle-22,logic
+50,Second order and Higher order Logic_2 The Syntax of SecondOrder Logic.txt,variables-12,formula-10,logic-9,relation-9,function-9,logic
+51,Propositional Function_2 The Logic of Relatives.txt,relations-6,peirces-5,terms-5,logic-5,term-4,logic
+52,Russells Logical Atomism_5 Influence and Reception.txt,wittgenstein-7,logical-6,influence-6,analysis-6,philosophy-5,logic
+53,Formalism in the Philosophy of Mathematics_7 The CurryHoward Correspondence.txt,type-37,theory-26,logic-17,syntactic-16,rightarrow-15,logic
+54,Set Theory_7 Gdels constructible universe.txt,model-8,set-6,contains-6,lalpha-5,zfc-5,logic
+55,Logical Constructions_4 Definite Descriptions.txt,descriptions-11,logical-9,constructions-9,theory-8,one-7,logic
+56,Principia Mathematica_2 History of and Significance of Principia Mathematica.txt,russell-21,logic-17,axiom-17,first-16,principia-15,logic
+57,Second order and Higher order Logic_7 Model Theory of SecondOrder Logic.txt,secondorder-66,logic-40,model-26,structure-23,characterizable-23,logic
+58,Modal Logic_4 Temporal Logics.txt,future-8,temporal-7,logic-7,past-7,always-7,logic
+59,Logical Truth_2 The Mathematical Characterization of Logical Truth.txt,logical-94,truth-55,validity-52,modeltheoretic-41,one-33,logic
+60,Hans Reichenbach_5 Logic and Modality.txt,nomological-13,consistency-12,statements-12,reichenbach-10,logical-10,logic
+61,Modal Logic_1 What is Modal Logic.txt,logics-2,narrowly-1,construed-1,modal-1,logic-1,logic
+62,Logical Form_9 Semantic Structure and Events.txt,form-15,sentences-14,logical-13,like-12,natural-10,logic
+63,Rudolf Carnap_8 Inductive Logic and the ReEmergence of the Theoretical Language.txt,carnap-37,theoretical-26,inductive-18,language-18,logic-16,logic
+64,Model Theory_3 Modeltheoretic consequence.txt,argument-15,consequence-12,logic-8,modeltheoretic-7,vdash-7,logic
+65,John Buridan_3 Language.txt,buridan-11,logic-8,discourse-8,propositions-8,philosophy-7,logic
+66,Philosophy of Mathematics_2 Four schools.txt,mathematics-44,arithmetic-39,mathematical-27,peano-23,logic-21,logic
+67,Second order and Higher order Logic_6 NonAbsoluteness of Truth in SecondOrder Logic.txt,zfc-18,logic-14,absolute-14,transitive-14,model-14,logic
+68,Logical Constructions_3 Natural Numbers.txt,russell-12,classes-10,logical-10,numbers-6,dedekind-6,logic
+69,Medieval Theories of the Syllogism_2 Boethius.txt,sentences-18,hypothetical-17,boethius-15,syllogism-14,logic-12,logic
+70,Alfred North Whitehead_2 Mathematics and Logic.txt,whitehead-20,russell-19,mathematics-13,logic-11,project-10,logic
+71,Modal Logic_6 Possible Worlds Semantics.txt,truth-21,logic-16,true-12,box-12,world-11,logic
+72,Francis Herbert Bradley_5 Logic.txt,ideas-18,bradley-16,logic-14,inference-14,judgment-14,logic
+73,Logical Constructions_2 Logical Analysis and Logical Construction.txt,analysis-18,logical-16,russell-13,construction-12,theory-9,logic
+74,Logical Form_10 Further Questions.txt,logical-5,questions-4,claims-4,form-3,sentence-3,logic
+75,Logical Pluralism_3 Further kinds of Logical Pluralism.txt,logical-35,one-21,logic-20,correct-18,consequence-16,logic
+76,Rudolf Carnap_5 Logical Syntax of Language.txt,carnap-26,syntax-20,logical-16,language-14,tolerance-12,logic
+77,Modal Logic_2 Modal Logics.txt,box-24,diamond-16,modal-14,necessary-12,logic-11,logic
+78,George Edward Moore_4 Philosophical Analysis.txt,moore-18,logical-14,propositions-12,analysis-11,russell-7,logic
+79,Modal Logic_13 Bisimulation.txt,bisimulation-7,one-7,forall-7,modal-6,logic-6,logic
+80,Ancient Logic_5 The Stoics.txt,assertibles-27,assertible-26,logic-23,true-22,one-20,logic
+81,Second order and Higher order Logic_9 Axioms of SecondOrder Logic.txt,logic-53,secondorder-47,models-33,set-24,axiom-22,logic
+82,Model Theory_4 Expressive strength.txt,firstorder-14,language-11,reducible-8,logic-8,mathbbr-8,logic
+83,Alfred Tarski_4 Logical constants.txt,logical-57,tarski-52,universe-27,definition-21,theory-21,logic
+84,Second order and Higher order Logic_12 Higher Order Logic visvis Type Theory.txt,logic-24,order-23,type-15,theory-13,secondorder-10,logic
+85,Rudolf Carnap_1 General Characterization of Carnaps Philosophy.txt,carnap-55,language-44,scientific-31,frameworks-26,logical-23,logic
+86,Logical Consequence_3 Mathematical Tools Models and Proofs.txt,logical-49,truth-34,consequence-32,proof-31,one-30,logic
+87,Constructive Mathematics_8 Concluding Remarks.txt,mathematics-6,constructive-5,logic-5,mathematician-4,intuitionistic-3,logic
+88,Carl Hempel_2 The Critique of Logical Positivism.txt,hempel-20,sentences-20,logical-19,would-18,properties-14,logic
+89,Gottlob Frege_2 Freges Logic and Philosophy of Mathematics.txt,frege-106,concept-64,logic-54,one-54,concepts-43,logic
+90,Ancient Logic_7 Later Antiquity.txt,logic-16,syllogisms-12,stoic-10,logical-7,also-7,logic
+91,Russells Logical Atomism_1 Introduction.txt,logical-14,atomism-12,atomic-10,russell-9,propositions-7,logic
+92,Logical Consequence_4 Premises and Conclusions.txt,premises-18,conclusion-18,consequence-13,argument-12,logical-11,logic
+93,Possible Worlds_1 Possible Worlds and Modal Logic.txt,world-44,possible-43,modal-38,truth-33,logic-28,logic
+94,Logical Pluralism_1 CaseBased Logical Pluralism.txt,one-43,logical-39,logic-32,might-29,pluralism-25,logic
+95,Quantifiers and Quantification_2 Departures from Classical Quantificational Logic.txt,logic-41,true-35,lnot-29,quantificational-25,substitutional-25,logic
+96,Logical Truth_1 The Nature of Logical Truth.txt,logical-99,see-46,truths-41,truth-34,view-28,logic
+97,Simplicity_5 ProbabilisticStatistical Justifications of Simplicity.txt,simplicity-22,probability-11,approach-11,model-11,one-10,logic
+98,Aristotle_4 Logic Science and Dialectic.txt,aristotle-26,deduction-25,science-17,logic-15,first-14,logic
+99,The Correspondence Theory of Truth_7 Modified Versions of the Correspondence Theory.txt,facts-48,true-34,logical-26,truthbearers-25,atomic-20,logic
+100,Bertrand Russell_3 Russells Work in Analytic Philosophy.txt,knowledge-27,russell-24,also-12,philosophy-11,logical-9,logic
+101,Vagueness_6 Subvaluationism.txt,supervaluationism-7,gaps-7,logic-7,vagueness-6,gluts-5,logic
+102,The Analytic Synthetic Distinction_2 High Hopes.txt,could-13,claims-9,philosophers-8,mathematics-7,logical-7,logic
+103,Second order and Higher order Logic_1 Introduction.txt,logic-35,secondorder-21,first-16,order-16,theory-14,logic
+104,Herbert Feigl_3 Logical Empiricism and Scientific Realism.txt,feigl-33,logical-18,theoretical-12,see-11,realism-9,logic
+105,The Philosophy of Neuroscience_8 Developments over the Second Decade of the TwentyFirst Century.txt,neuroscience-39,cognitive-24,visual-17,systems-16,model-16,logic
+106,Logical Constants_6 Inferential characterizations.txt,rules-51,logical-21,introduction-21,elimination-21,constants-19,logic
+107,Russells Logical Atomism_4 Ontological Aspects of Russells Logical Atomism.txt,russell-60,logical-42,atomic-40,one-38,facts-35,logic
+108,Wittgensteins Aesthetics_2 The Critique of Scientism.txt,aesthetic-20,wittgenstein-18,one-10,explanation-8,model-8,logic
+109,Logical Constants_7 Pragmatic demarcations.txt,logic-18,demarcations-10,warmbrod-7,pragmatic-7,analytical-6,logic
+110,Model Theory_5 Models and modelling.txt,model-15,theory-12,models-10,modeltheoretic-7,form-6,logic
+111,The Computational Theory of Mind_1 Turing machines.txt,turing-21,machine-13,computation-6,algorithm-5,model-5,logic
+112,Logic and Artificial Intelligence_12 Prospects for a Logical Theory of Practical Reason.txt,logic-9,reasoning-7,work-4,deontic-4,practical-3,logic
+113,Logical Constants_8 Problem or pseudoproblem.txt,logical-33,constants-20,argument-16,logic-12,distinction-10,logic
+114,Logicism and Neologicism_4 Constructive Logicism.txt,rules-23,constructive-14,natural-13,logic-11,antirealist-10,logic
+115,Wittgensteins Logical Atomism_5 The Dismantling of Logical Atomism.txt,logical-19,wittgenstein-17,analysis-13,tractatus-9,two-8,logic
+116,Logical Consequence_5 One or Many.txt,logical-9,one-9,different-7,consequence-6,argument-6,logic
+117,Vagueness_3 The Philosophical Challenge Posed by Vagueness.txt,old-14,child-11,human-10,threshold-9,logic-8,logic
+118,Logical Constructions_1 Honest Toil.txt,logical-18,russell-12,numbers-11,classes-9,definitions-8,logic
+119,Logic and Artificial Intelligence_3 Nonmonotonic Reasoning and Nonmonotonic Logics.txt,nonmonotonic-49,logic-43,reasoning-26,logical-24,default-18,logic
+120,Analysis_7 Conclusion.txt,analysis-9,analytic-4,logical-3,history-2,philosophy-2,logic
+121,Quantifiers and Quantification_3 Extensions of Classical Quantificational Logic.txt,quantification-86,secondorder-62,logic-60,propositional-45,may-41,logic
+122,Logical Constants_2 Grammatical criteria.txt,grammatical-17,logical-14,one-11,constants-9,fol-8,logic
+123,Modal Logic_15 Quantifiers in Modal Logic.txt,logic-24,exists-21,possible-20,rules-19,classical-16,logic
+124,Second order and Higher order Logic_4 Properties of SecondOrder Formulas.txt,secondorder-19,phi-12,formulas-11,first-10,logic-10,logic
+125,Medieval Theories of the Syllogism_1 Aristotles Theory.txt,aristotle-23,syllogisms-22,sentences-19,modal-15,valid-14,logic
+126,Logical Empiricism_5 Impact.txt,science-13,logical-10,movement-9,even-6,philosophers-6,logic
+127,Modal Logic_7 Modal Axioms and Conditions on Frames.txt,box-15,world-11,logic-10,relation-8,worlds-8,logic
+128,Vagueness_5 Supervaluationism.txt,true-15,statement-9,logic-8,truthvalue-6,supervaluationist-6,logic
+129,Logical Constructions_10 Successors to Logical Construction.txt,logical-16,construction-16,project-11,matter-11,quine-10,logic
+130,Russells Paradox_4 Russells Paradox in Contemporary Logic.txt,paradox-45,theory-23,one-18,set-17,logic-17,logic
+131,Logic and Artificial Intelligence_7 Reasoning about Knowledge.txt,logic-10,logical-9,attitudes-8,work-8,epistemic-6,logic
+132,The Analytic Synthetic Distinction_1 The Intuitive Distinction.txt,would-14,analytic-13,logical-12,see-11,truth-9,logic
+133,Ancient Logic_1 PreAristotelian Logic.txt,logical-9,bce-7,plato-6,subject-6,says-5,logic
+134,Logic and Artificial Intelligence_11 Contextual Reasoning.txt,context-10,logic-6,mccarthy-5,explicit-3,languages-3,logic
+135,Second order and Higher order Logic_11 Logics Between First and Second Order.txt,logic-14,secondorder-12,quantifier-11,order-9,first-8,logic
+136,Logical Form_5 Descriptions and Analysis.txt,proposition-16,boy-14,propositions-14,russell-13,logical-11,logic
+137,Quantifiers and Quantification_4 Quantification and Ontology.txt,logic-47,objects-47,quantification-43,existence-33,domain-32,logic
+138,Logic and Artificial Intelligence_10 Taxonomic Representation and Reasoning.txt,logic-7,nonmonotonic-7,taxonomic-5,systems-4,knowledge-3,logic
+139,Luitzen Egbertus Jan Brouwer_1 The Person.txt,brouwer-13,mathematics-6,korteweg-5,also-5,university-4,mathematics
+140,Interpretations of Probability_4 Conclusion Recent Trends Future Prospects.txt,probability-31,see-21,probabilities-18,theory-17,interpretations-10,mathematics
+141,Philosophy of Mathematics_6 The Future.txt,mathematical-11,philosophy-6,mathematics-5,questions-4,concepts-4,mathematics
+142,Set Theory_6 The set theory of the continuum.txt,sets-40,set-37,projective-14,property-12,numbers-11,mathematics
+143,Formalism in the Philosophy of Mathematics_3 Tractarian Formalism.txt,wittgenstein-20,mathematics-15,one-14,account-12,tractatus-10,mathematics
+144,Formalism in the Philosophy of Mathematics_1 Introduction.txt,frege-7,position-6,formalism-5,finitary-5,mathematics-4,mathematics
+145,The Frege Hilbert Controversy_1 Introduction.txt,consistency-6,independence-6,axioms-5,mathematical-5,hilbert-4,mathematics
+146,Set Theory_1 The origins.txt,set-23,theory-12,numbers-11,sets-10,axiom-8,mathematics
+147,Bertrand Russell_2 Russells Work in Logic.txt,theory-19,mathematics-14,logic-13,russell-11,set-9,mathematics
+148,Bernard Bolzano_2 Bolzanos Main Writings.txt,mathematics-4,bolzano-3,logic-3,work-2,three-2,mathematics
+149,Type Theory_4 Type TheorySet Theory.txt,set-11,theory-9,type-8,relation-5,hold-5,mathematics
+150,Philosophy of Mathematics_4 Structuralism and Nominalism.txt,mathematical-48,numbers-28,theory-27,entities-26,theories-25,mathematics
+151,Philosophy of Mathematics_5 Special Topics.txt,set-47,theory-36,secondorder-31,one-25,mathematical-21,mathematics
+152,The Notation in Principia Mathematica_1 Why Learn the Symbolism in Principia Mathematica.txt,notation-7,logic-5,contemporary-4,symbolic-3,mathematics-3,mathematics
+153,Willard Van Orman Quine_1 Quines life and work.txt,published-11,logic-3,ohio-2,attended-2,mathematical-2,mathematics
+154,Set Theory_8 Forcing.txt,model-14,one-12,forcing-10,generic-9,set-8,mathematics
+155,Hans Reichenbach_8 Retrospective.txt,work-4,respect-4,reichenbachs-3,probability-3,true-3,mathematics
+156,Type Theory_3 Ramified Hierarchy and Impredicative Principles.txt,order-36,hierarchy-33,ramified-25,properties-25,number-23,mathematics
+157,Modal Logic_12 Advanced Modal Logic.txt,modal-8,logic-6,mathematics-2,computer-2,science-2,mathematics
+158,Logicism and Neologicism_2 NeoFregeanism.txt,number-8,neofregean-7,principle-6,revival-5,form-5,mathematics
+159,Kurt Gdel_1 Biographical Sketch.txt,gödel-40,gödels-13,published-9,entitled-9,mathematics-8,mathematics
+160,Constructive Mathematics_3 Varieties of Constructive Mathematics.txt,mathematics-48,constructive-28,logic-21,intuitionistic-20,one-17,mathematics
+161,Interpretations of Probability_3 The Main Interpretations.txt,probability-153,probabilities-91,may-74,one-61,relative-57,mathematics
+162,Tarskis Truth Definitions_1 The 1933 programme and the semantic conception.txt,definition-19,truth-13,metalanguage-13,language-12,set-12,mathematics
+163,Alfred Tarski_1 Biographical sketch.txt,tarski-6,university-6,mathematics-4,berkeley-4,warsaw-3,mathematics
+164,Second order and Higher order Logic_5 The Infamous Power of SecondOrder Logic.txt,logic-36,secondorder-32,set-21,order-16,first-15,mathematics
+165,Wittgensteins Philosophy of Mathematics_3 The Later Wittgenstein on Mathematics Some Preliminaries.txt,wittgenstein-91,rfm-80,mathematical-61,proposition-45,mathematics-37,mathematics
+166,Ernst Cassirer_3 Philosophy of Mathematics and Natural Science.txt,cassirer-15,theory-11,philosophical-10,mathematical-10,conception-9,mathematics
+167,Set Theory_4 The universe V of all sets.txt,valpha-15,set-9,alpha-8,zfc-8,ordinal-5,mathematics
+168,Constructive Mathematics_7 Constructive Mathematical Economics and Finance.txt,mathematical-4,constructive-3,existence-3,berger-3,svindland-3,mathematics
+169,Logicism and Neologicism_1 Historical background.txt,one-84,number-49,theory-47,frege-43,numbers-36,mathematics
+170,Luitzen Egbertus Jan Brouwer_4 Brouwers Development of Intuitionism.txt,brouwer-17,mathematics-14,sequences-12,choice-11,principle-10,mathematics
+171,Second order and Higher order Logic_13 Foundations of Mathematics.txt,secondorder-26,set-22,logic-22,theory-19,axioms-17,mathematics
+172,Second order and Higher order Logic_3 The Semantics of SecondOrder Logic.txt,logic-23,secondorder-16,set-14,player-13,order-12,mathematics
+173,Second order and Higher order Logic_15 SecondOrder Set Theory.txt,set-8,theory-7,first-7,order-7,secondorder-7,mathematics
+174,Propositional Function_6 Propositional Functions in  Simple Type Theory.txt,type-13,set-9,variables-9,paradox-8,theory-8,mathematics
+175,Wittgensteins Philosophy of Mathematics_1 Wittgenstein on Mathematics in the Tractatus.txt,propositions-27,mathematical-26,wittgenstein-21,proposition-20,equations-15,mathematics
+176,Freges Theorem and Foundations for Arithmetic_3 Freges Analysis of Cardinal Numbers.txt,principle-30,concepts-27,number-25,concept-22,definition-19,mathematics
+177,Philosophy of Mathematics_3 Platonism.txt,mathematical-54,theory-27,objects-22,mathematics-19,theories-18,mathematics
+178,Russells Paradox_1 The Paradox.txt,set-16,phix-12,members-9,axiom-6,sets-5,mathematics
+179,Second order and Higher order Logic_14 SecondOrder Arithmetic.txt,theory-7,numbers-6,mathematics-6,arithmetic-5,set-5,mathematics
+180,Set Theory_7 Gdels constructible universe.txt,model-8,set-6,contains-6,lalpha-5,zfc-5,mathematics
+181,The Notation in Principia Mathematica_3 The Use of Dots for Punctuation.txt,dots-19,number-12,parentheses-10,scope-10,group-10,mathematics
+182,Logicism and Neologicism_3 Secondorder logic with Humes Principle.txt,numbers-24,principle-13,number-13,one-12,natural-12,mathematics
+183,Intuitionism in the Philosophy of Mathematics_4 Constructivism.txt,constructive-5,constructivism-4,mathematics-4,intuitionism-2,forms-2,mathematics
+184,Formalism in the Philosophy of Mathematics_4 Formalism and the Positivists.txt,one-15,carnap-15,mathematics-11,theory-9,mathematical-8,mathematics
+185,Set Theory_11 Forcing axioms.txt,forcing-13,set-9,every-9,sets-8,partial-8,mathematics
+186,Bernard Bolzano_8 Philosophy of Religion and Theology.txt,bolzano-19,religion-16,sense-8,religious-8,probability-8,mathematics
+187,Logical Empiricism_4 Issues.txt,carnap-62,would-38,science-36,probability-33,sentences-29,mathematics
+188,The Frege Hilbert Controversy_2 Hilberts Foundations of Geometry.txt,consistency-19,set-14,axioms-12,independence-11,terms-11,mathematics
+189,Russells Paradox_3 Early Responses to the Paradox.txt,set-11,theory-9,paradox-8,one-8,collection-8,mathematics
+190,Formalism in the Philosophy of Mathematics_6 Term Formalism Curry.txt,formal-9,system-9,curry-7,one-7,mathematics-6,mathematics
+191,Philosophy of Mathematics_2 Four schools.txt,mathematics-44,arithmetic-39,mathematical-27,peano-23,logic-21,mathematics
+192,Constructive Mathematics_2 The Constructive Interpretation of Logic.txt,constructive-11,proof-10,principle-8,theorem-6,classical-5,mathematics
+193,Alfred North Whitehead_2 Mathematics and Logic.txt,whitehead-20,russell-19,mathematics-13,logic-11,project-10,mathematics
+194,Principia Mathematica_5 Volume II.txt,numbers-48,alpha-36,relation-31,set-24,theory-22,mathematics
+195,Set Theory_2 The axioms of set theory.txt,set-35,elements-12,every-10,axiom-8,exists-8,mathematics
+196,Freges Theorem and Foundations for Arithmetic_4 Freges Analysis of Predecessor Ancestrals and the Natural Numbers.txt,definition-19,numbers-17,number-15,concept-13,natural-13,mathematics
+197,Type Theory_7 Univalent Foundations.txt,type-42,set-16,element-13,equal-12,theory-11,mathematics
+198,Formalism in the Philosophy of Mathematics_2 Game and Term Formalism.txt,frege-12,game-12,theory-10,mathematics-10,arithmetic-9,mathematics
+199,Kurt Gdel_2 Gdels Mathematical Work.txt,gödel-103,theorem-86,proof-78,gödels-59,set-52,mathematics
+200,Set Theory_5 Set theory as the foundation of mathematics.txt,zfc-22,set-19,mathematical-11,varphi-9,numbers-8,mathematics
+201,Second order and Higher order Logic_9 Axioms of SecondOrder Logic.txt,logic-53,secondorder-47,models-33,set-24,axiom-22,mathematics
+202,Wittgensteins Philosophy of Mathematics_4 The Impact of Philosophy of Mathematics on Mathematics.txt,mathematics-8,clarity-7,mathematicians-5,mathematical-5,philosophical-4,mathematics
+203,Logical Constructions_7 Mathematical Functions.txt,functions-9,mathematical-8,definite-7,descriptions-6,relation-5,mathematics
+204,Propositional Function_9 Possible Worlds and Propositional Functions.txt,function-10,possible-7,worlds-7,functions-6,set-5,mathematics
+205,Connectionism_2 Neural Network Learning and Backpropagation.txt,training-12,set-9,net-9,output-8,weights-7,mathematics
+206,Luitzen Egbertus Jan Brouwer_2 Chronology.txt,brouwer-29,first-12,mathematics-11,lecture-11,hilbert-10,mathematics
+207,Logical Consequence_3 Mathematical Tools Models and Proofs.txt,logical-49,truth-34,consequence-32,proof-31,one-30,mathematics
+208,Constructive Mathematics_8 Concluding Remarks.txt,mathematics-6,constructive-5,logic-5,mathematician-4,intuitionistic-3,mathematics
+209,Intuitionism in the Philosophy of Mathematics_2 Intuitionism.txt,intuitionism-15,mathematics-14,subject-13,brouwer-11,creating-11,mathematics
+210,Hans Reichenbach_3 Epistemology and Metaphysics.txt,reichenbach-52,reichenbachs-34,probability-23,theory-20,one-19,mathematics
+211,Simplicity_5 ProbabilisticStatistical Justifications of Simplicity.txt,simplicity-22,probability-11,approach-11,model-11,one-10,mathematics
+212,Set Theory_3 The theory of transfinite ordinals and cardinals.txt,ordinal-18,ordinals-18,set-17,kappa-15,cardinal-14,mathematics
+213,Principia Mathematica_1 Overview.txt,numbers-25,theory-20,set-18,sets-16,system-12,mathematics
+214,Formalism in the Philosophy of Mathematics_8 Contemporary Formalism.txt,formalism-19,proofs-14,one-12,mathematical-10,truth-10,mathematics
+215,The Analytic Synthetic Distinction_2 High Hopes.txt,could-13,claims-9,philosophers-8,mathematics-7,logical-7,mathematics
+216,Classical Logic_5 Metatheory.txt,gamma-104,theta-49,let-43,set-34,every-32,mathematics
+217,Wittgensteins Philosophy of Mathematics_2 The Middle Wittgensteins Finitistic Constructivism.txt,mathematical-101,wittgenstein-76,infinite-62,proposition-57,numbers-46,mathematics
+218,Intuitionism in the Philosophy of Mathematics_1 Brouwer.txt,brouwer-10,mathematics-10,life-7,philosophy-7,famous-4,mathematics
+219,Freges Theorem and Foundations for Arithmetic_5 Freges Theorem.txt,natural-34,number-31,theorem-28,lemma-27,principle-25,mathematics
+220,The Notation in Principia Mathematica_10 Prolegomena to Cardinal Arithmetic.txt,set-9,principia-9,theory-8,relation-8,function-8,mathematics
+221,Herbert Feigl_2 Feigl and the Vienna Circle.txt,feigl-14,probability-5,circle-4,schlick-4,induction-4,mathematics
+222,Interpretations of Probability_1 Kolmogorovs Probability Calculus.txt,probability-16,probabilities-10,omega-9,given-7,theory-6,mathematics
+223,Connectionism_3 Samples of What Neural Networks Can Do.txt,training-13,verbs-11,english-10,set-9,nets-9,mathematics
+224,Interpretations of Probability_2 Criteria of Adequacy for the Interpretations of Probability.txt,interpretation-13,probability-12,applicability-10,criterion-8,interpretations-6,mathematics
+225,Philosophy of Mathematics_1 Philosophy of Mathematics Logic and the Foundations of Mathematics.txt,mathematics-9,mathematical-6,theory-4,one-3,philosophy-3,mathematics
+226,Constructive Mathematics_4 The Axiom of Choice.txt,choice-18,axiom-8,theory-6,set-5,function-4,mathematics
+227,Hans Reichenbach_2 Causality and Probability.txt,probability-78,reichenbach-43,reichenbachs-32,sequence-20,principle-19,mathematics
+228,Facts_2 Formal Theories of Facts.txt,facts-153,fact-69,true-61,set-60,proposition-52,mathematics
+229,Alfred Jules Ayer_4 Induction and Probability.txt,probability-17,ayer-12,evidence-9,given-7,one-7,mathematics
+230,Russells Paradox_4 Russells Paradox in Contemporary Logic.txt,paradox-45,theory-23,one-18,set-17,logic-17,mathematics
+231,Intuitionism in the Philosophy of Mathematics_5 Metamathematics.txt,intuitionistic-19,theory-19,mathematics-15,axioms-15,sequences-14,mathematics
+232,Intuitionism in the Philosophy of Mathematics_6 Philosophy.txt,mathematics-10,mathematical-10,one-10,meaning-9,brouwer-8,mathematics
+233,Luitzen Egbertus Jan Brouwer_3 Brief Characterisation of Brouwers Intuitionism.txt,brouwer-5,mathematics-4,philosophy-3,activity-3,classical-3,mathematics
+234,Propositions_2 Roles for Propositions Modality.txt,propositions-17,sense-13,thought-12,false-10,frege-9,language
+235,Skepticism_1 Knowledge Justification and Skepticism.txt,know-13,skepticism-12,even-11,proposition-9,justified-9,language
+236,Russells Logical Atomism_2 Origins and Development of Russells Logical Atomism.txt,russell-67,proposition-57,propositions-32,relation-31,class-27,language
+237,Moral Cognitivism vs  Non Cognitivism_2 Principal Varieties in More Detail.txt,moral-80,sentences-31,judgments-31,express-28,one-26,language
+238,Model Theory_1 Basic notions of model theory.txt,model-13,sentence-8,theory-8,true-7,interpretation-7,language
+239,Propositions_Sparse and Abundant Conceptions of Propositions.txt,propositions-15,true-12,facts-10,fact-10,proposition-8,language
+240,Willard Van Orman Quine_3 The AnalyticSynthetic Distinction and the Argument Against Logical Empiricism.txt,quine-31,language-28,sentences-22,experience-20,analytic-18,language
+241,The Identity Theory of Truth_4 Identity sense and reference.txt,entities-31,level-28,propositions-25,sense-21,reference-19,language
+242,Religious Language_3 The Use of Religious Language.txt,religious-75,god-42,speakers-23,discourse-22,however-18,language
+243,Structured Propositions_5 Historical Antecedents to Current Views Russell.txt,russell-18,constituents-17,propositions-15,proposition-10,difference-7,language
+244,Medieval Theories of the Syllogism_3 Arabic Logic and Syllogisms.txt,sentences-30,logic-25,avicenna-17,absolute-15,arabic-14,language
+245,The Correspondence Theory of Truth_8 The Correspondence Theory and Its Competitors.txt,truth-44,correspondence-41,theory-31,true-28,propositions-17,language
+246,Bernard Bolzano_11 Philosophy of Mathematics.txt,true-21,bolzano-16,propositions-11,proposition-7,infinite-6,language
+247,Aristotles Logic_12 Time and Necessity The SeaBattle.txt,aristotle-7,true-6,must-4,propositions-4,one-4,language
+248,Wittgensteins Logical Atomism_1 Names and Objects.txt,propositions-9,names-8,tractatus-7,particulars-6,objects-6,language
+249,Medieval Theories of the Syllogism_7 William of Ockham.txt,sentences-20,ockham-18,modal-17,sentence-13,divided-12,language
+250,Bertrand Russell_4 Russells Theory of Definite Descriptions.txt,logical-10,russell-9,sentence-9,true-8,king-8,language
+251,Second order and Higher order Logic_10 Categoricity.txt,categoricity-24,secondorder-16,models-9,sentence-9,categorical-8,language
+252,Gertrude Elizabeth Margaret Anscombe_3 Metaphysics.txt,causation-8,work-5,language-5,effect-4,account-4,language
+253,Tarskis Truth Definitions_2 Some kinds of truth definition on the 1933 pattern.txt,definition-26,truth-23,formulas-19,satisfaction-18,language-17,language
+254,Ludwig Wittgenstein_2 The Early Wittgenstein.txt,propositions-36,wittgenstein-21,tractatus-20,world-17,logical-17,language
+255,"Logic and Artificial Intelligence_9 Logical Approaches to Natural Language and 
+Communication.txt",linguistic-11,logic-8,reasoning-7,information-7,discourse-7,language
+256,The Frege Hilbert Controversy_3 FregeBackground And Initial Differences.txt,consistency-19,frege-15,sentences-15,thoughts-13,hilbert-11,language
+257,Tarskis Truth Definitions_1 The 1933 programme and the semantic conception.txt,definition-19,truth-13,metalanguage-13,language-12,set-12,language
+258,Descriptions_8 Conclusion.txt,russell-3,natural-2,language-2,constructions-2,languages-2,language
+259,Wittgensteins Philosophy of Mathematics_3 The Later Wittgenstein on Mathematics Some Preliminaries.txt,wittgenstein-91,rfm-80,mathematical-61,proposition-45,mathematics-37,language
+260,Medieval Theories  Properties of Terms_4 Ampliation and Restriction.txt,white-24,black-11,true-9,proposition-7,thing-7,language
+261,Singular Propositions_6 Temporal Problems for Singular Propositions.txt,propositions-6,singular-5,exist-5,proposition-5,constituent-5,language
+262,Ancient Logic_2 Aristotle.txt,aristotle-30,sentences-20,syllogisms-20,term-12,logic-11,language
+263,Propositions_5 Linguistic Problems.txt,argument-13,common-8,one-4,propositions-4,sentences-4,language
+264,Logical Form_6 Regimentation and Communicative Slack.txt,language-24,sentences-19,logical-15,propositions-12,natural-12,language
+265,Ancient Logic_6 Epicurus and the Epicureans.txt,epicureans-5,usener-5,utterances-5,logic-3,language-3,language
+266,Propositional Attitude Reports_1 Freges Puzzle.txt,lois-14,would-10,true-9,sentences-8,propositional-7,language
+267,Logical Form_8 Transformational Grammar.txt,structure-25,grammatical-22,logical-12,form-12,language-12,language
+268,Skepticism_3 The Argument for Cartesian Skepticism Employing the Closure Principle.txt,believing-73,skeptical-50,justified-50,evidence-49,proposition-43,language
+269,Propositional Function_5 The Emergence of Propositional Functions.txt,propositional-9,propositions-8,function-7,socrates-7,russell-6,language
+270,Medieval Theories of the Syllogism_8 John Buridan.txt,buridan-18,terms-18,figure-15,syllogistic-14,sentences-14,language
+271,Moral Cognitivism vs  Non Cognitivism_5 Can The CognitivistNoncognitivist Distinction Be Sustained.txt,moral-18,noncognitivism-15,truth-14,sentences-13,conditions-12,language
+272,Gottlob Frege_3 Freges Philosophy of Language.txt,sense-30,sentence-28,twain-25,frege-24,true-23,language
+273,Wittgensteins Philosophy of Mathematics_1 Wittgenstein on Mathematics in the Tractatus.txt,propositions-27,mathematical-26,wittgenstein-21,proposition-20,equations-15,language
+274,Alfred Tarski_3 Logical consequence.txt,tarski-41,logical-21,consequence-21,lar-20,sentence-18,language
+275,Vagueness_8 Is All Vagueness Linguistic.txt,vagueness-18,vague-14,language-9,objects-7,music-7,language
+276,The Identity Theory of Truth_5 Difficulties with the theory and possible solutions.txt,fact-82,socrates-59,proposition-51,true-47,identity-38,language
+277,Propositional Attitude Reports_7 Denying the assumption of structuredpropositionalism.txt,account-38,one-21,utterance-21,sentence-20,sentences-19,language
+278,Structured Propositions_3 Some Recent Accounts of Structured Propositions.txt,propositions-131,proposition-93,property-59,truth-55,relation-45,language
+279,Medieval Theories of the Syllogism_5 The Early Commentators on the Prior Analytics.txt,kilwardby-23,per-22,subject-15,sentence-14,necessity-12,language
+280,Skepticism_4 Contextualism.txt,true-19,proposition-18,believing-15,argument-14,justified-13,language
+281,Singular Propositions_1 Fregeanism and Russellianism.txt,thought-29,sense-24,russell-21,propositions-19,frege-16,language
+282,The Frege Hilbert Controversy_4 The Deeper Disagreement.txt,consistency-35,frege-30,thoughts-29,hilbert-23,sentences-23,language
+283,Logical Form_9 Semantic Structure and Events.txt,form-15,sentences-14,logical-13,like-12,natural-10,language
+284,Logical Empiricism_4 Issues.txt,carnap-62,would-38,science-36,probability-33,sentences-29,language
+285,Propositions_3 Roles for Propositions Semantics.txt,propositions-4,possible-4,maximal-3,consistent-3,would-2,language
+286,Intentionality_5 True negative existential beliefs.txt,one-16,true-11,pegasus-11,exist-10,proposition-8,language
+287,Rudolf Carnap_8 Inductive Logic and the ReEmergence of the Theoretical Language.txt,carnap-37,theoretical-26,inductive-18,language-18,logic-16,language
+288,John Buridan_3 Language.txt,buridan-11,logic-8,discourse-8,propositions-8,philosophy-7,language
+289,Bernard Bolzano_9 Metaphysics.txt,bolzano-17,time-14,proposition-8,cajus-8,real-6,language
+290,Medieval Theories of the Syllogism_2 Boethius.txt,sentences-18,hypothetical-17,boethius-15,syllogism-14,logic-12,language
+291,Logical Form_1 Patterns of Reason.txt,propositions-18,first-14,every-13,inferences-10,valid-10,language
+292,Private Language_1 Overview Wittgensteins Argument and its Interpretations.txt,language-31,private-26,philosophical-24,wittgenstein-16,one-14,language
+293,Religious Language_2 The Content of Religious Utterances.txt,religious-81,language-29,statements-27,theory-24,god-20,language
+294,The Frege Hilbert Controversy_6 Conclusion.txt,consistency-12,hilbert-12,sentences-11,independence-10,frege-8,language
+295,John Buridan_4 Logic.txt,proposition-46,true-29,false-24,buridan-23,terms-20,language
+296,Ontological Commitment_4 Ontological Commitment in Ordinary Language.txt,ontological-50,language-48,ordinary-47,commitment-38,paraphrase-28,language
+297,Rudolf Carnap_4 The Road to Syntax.txt,language-27,carnap-13,new-13,syntax-8,sentences-7,language
+298,Logical Form_10 Further Questions.txt,logical-5,questions-4,claims-4,form-3,sentence-3,language
+299,Otto Neurath_2 From economic theory to scientific epistemology.txt,language-31,neurath-21,social-21,scientific-13,argument-11,language
+300,Medieval Theories of the Syllogism_6 Richard of Campsall.txt,modal-22,sentences-17,campsall-15,divided-10,composite-8,language
+301,Propositional Attitude Reports_4 The Naive Russellian theory.txt,belief-32,proposition-24,believes-23,russell-22,thought-20,language
+302,William of Ockham_3 Logic and Semantics.txt,terms-39,language-31,part-27,ockham-24,mental-23,language
+303,Rudolf Carnap_5 Logical Syntax of Language.txt,carnap-26,syntax-20,logical-16,language-14,tolerance-12,language
+304,Wittgensteins Aesthetics_1 The Critique of Traditional Aesthetics.txt,aesthetic-32,wittgenstein-21,language-12,would-10,word-10,language
+305,George Edward Moore_4 Philosophical Analysis.txt,moore-18,logical-14,propositions-12,analysis-11,russell-7,language
+306,Descriptions_2 Russells Theory of Descriptions.txt,form-4,sentence-3,description-3,claim-3,idea-2,language
+307,Religious Language_4 Religious Minimalism.txt,religious-57,discourse-25,truth-23,different-19,wittgenstein-16,language
+308,Reference_6 Negative Views of Reference.txt,reference-17,might-12,language-9,words-9,refer-8,language
+309,Wittgensteins Logical Atomism_2 Linguistic Atomism.txt,analysis-28,proposition-21,wittgenstein-15,one-13,complex-11,language
+310,Moritz Schlick_8 The Protocol Sentence Controversy.txt,carnap-9,language-7,schlick-7,affirmations-7,analysis-6,language
+311,Logical Constructions_8 Propositions and Propositional Functions.txt,propositional-21,propositions-20,functions-18,russell-14,theory-12,language
+312,Model Theory_4 Expressive strength.txt,firstorder-14,language-11,reducible-8,logic-8,mathbbr-8,language
+313,Wittgensteins Logical Atomism_3 Metaphysical Atomism.txt,world-25,respect-17,sentence-17,proposition-16,substance-15,language
+314,Medieval Theories of the Syllogism_4 Peter Abelard.txt,modal-38,sentences-25,abelard-18,rules-16,sentence-15,language
+315,Rudolf Carnap_1 General Characterization of Carnaps Philosophy.txt,carnap-55,language-44,scientific-31,frameworks-26,logical-23,language
+316,The Deflationary Theory of Truth_1 History of Deflationism.txt,truth-12,true-9,sentence-6,shakespeare-5,caesar-4,language
+317,Mental Representation in Medieval Philosophy_6 William Ockham and Mental Language.txt,concept-7,mental-6,theory-4,language-3,representation-3,language
+318,Classical Logic_1 Introduction.txt,language-22,formal-16,reasoning-16,natural-13,correct-10,language
+319,Logical Form_ 2 Propositions and Traditional Grammar.txt,propositions-11,like-8,sentences-8,proposition-7,star-7,language
+320,Wittgensteins Logical Atomism_4 The Epistemology of Logical Atomism.txt,wittgenstein-16,objects-12,tractarian-9,propositions-9,analysis-9,language
+321,Intentionality_1 Why is intentionality socalled.txt,mental-14,states-14,intentionality-13,word-7,true-7,language
+322,Carl Hempel_2 The Critique of Logical Positivism.txt,hempel-20,sentences-20,logical-19,would-18,properties-14,language
+323,Private Language_3 The Private Language Argument Expounded.txt,private-47,language-32,one-27,argument-25,meaning-23,language
+324,Rudolf Carnap_6 Semantics and Modality.txt,carnap-34,semantics-30,language-16,intensional-14,rules-13,language
+325,Singular Propositions_7 Conclusion.txt,propositions-4,difficulties-4,singular-3,reasons-2,metaphysical-2,language
+326,Russells Logical Atomism_1 Introduction.txt,logical-14,atomism-12,atomic-10,russell-9,propositions-7,language
+327,Religious Language_5 Reference and Logic.txt,see-7,language-6,god-6,true-5,knows-5,language
+328,Propositional Function_8 What is a Propositional Function in Russell.txt,propositional-13,functions-9,russell-7,propositions-6,interpretation-5,language
+329,Propositions_4 Arguments for Propositions.txt,would-12,believes-11,propositions-9,john-9,true-8,language
+330,Ludwig Wittgenstein_3 The Later Wittgenstein.txt,language-27,wittgenstein-25,philosophical-19,philosophy-18,tractatus-13,language
+331,Otto Neurath_3 Neuraths place in logical empiricism physicalism antifoundationalism holism naturalism externalism pragmatism.txt,neurath-57,knowledge-42,language-39,scientific-37,statements-37,language
+332,Propositions_9 Propositions Facts and States of Affairs.txt,propositions-24,proposition-17,identity-12,constituents-10,structured-9,language
+333,Reference_1 Introduction.txt,terms-14,reference-11,refer-6,words-6,things-5,language
+334,Propositional Function_11 Categorial Grammar.txt,type-19,categorial-8,sentence-8,expression-7,function-7,language
+335,Propositional Function_4 Fregean Functions and Concepts.txt,frege-12,sense-9,functions-8,sentence-8,asleep-8,language
+336,Alfred Tarski_2 Truth.txt,tarski-52,language-26,truth-23,theory-22,lgtc-20,language
+337,Willard Van Orman Quine_4 Quinean Epistemology.txt,quine-35,sentences-32,observation-28,assent-27,sentence-22,language
+338,Wittgensteins Philosophy of Mathematics_2 The Middle Wittgensteins Finitistic Constructivism.txt,mathematical-101,wittgenstein-76,infinite-62,proposition-57,numbers-46,language
+339,Moral Cognitivism vs  Non Cognitivism_6 Conclusion.txt,moral-4,claim-4,rather-2,realist-2,discourse-2,language
+340,Propositions_8 The Individuation of Propositions.txt,propositions-90,world-55,proposition-45,true-45,one-36,language
+341,A Priori Justification and Knowledge_1 Examples that illustrate the difference between a priori and a posteriori empirical justification.txt,justified-11,priori-5,justification-5,posteriori-5,proposition-5,language
+342,Bernard Bolzano_3 Logic.txt,proposition-100,ideas-88,bolzano-82,propositions-72,true-65,language
+343,Logical Form_4 Frege and Formal Language.txt,frege-23,propositions-23,proposition-22,function-19,individual-16,language
+344,Propositions_6 The Metaphysics 101 Argument  Deep or Shallow.txt,propositions-21,verbs-15,analysis-14,relational-13,attitude-13,language
+345,Singular Propositions_5 Modal Problems for Singular Propositions.txt,true-32,proposition-22,bush-22,world-16,exists-16,language
+346,Structured Propositions_1 Setting Up the Problems.txt,proposition-44,semantic-31,sentence-27,values-23,propositions-22,language
+347,Medieval Theories of the Syllogism_1 Aristotles Theory.txt,aristotle-23,syllogisms-22,sentences-19,modal-15,valid-14,language
+348,Concepts_4 Concepts and natural language.txt,concepts-17,language-17,linguistic-12,nonlinguistic-10,animals-10,language
+349,Structured Propositions_2 From Possible Worlds to Structured Propositions.txt,possible-44,worlds-41,proposition-29,propositions-29,expressions-21,language
+350,Connectionism_3 Samples of What Neural Networks Can Do.txt,training-13,verbs-11,english-10,set-9,nets-9,language
+351,Propositional Function_7 Propositional Functions in Ramified Type Theory.txt,theory-13,true-10,propositions-10,types-8,proposition-8,language
+352,Facts_2 Formal Theories of Facts.txt,facts-153,fact-69,true-61,set-60,proposition-52,language
+353,Moral Cognitivism vs  Non Cognitivism_1 A More Detailed General Description.txt,moral-23,express-16,sentences-13,one-10,truth-9,language
+354,Moral Cognitivism vs  Non Cognitivism_4 Problems Objections and Response Strategies.txt,moral-42,one-35,attitudes-30,sentences-24,noncognitivists-21,language
+355,Private Language_4 Kripkes Sceptical Wittgenstein.txt,language-12,wittgenstein-11,private-9,meaning-8,kripke-8,language
+356,Donald Davidson_3 Meaning and Truth.txt,theory-82,meaning-57,language-43,davidson-27,truth-27,language
+357,Bernard Bolzano_4 Epistemology and Philosophy of Science.txt,bolzano-48,subjective-42,proposition-35,propositions-31,idea-30,language
+358,Skepticism_2 Two Basic Forms of Philosophical Skepticism.txt,respect-27,proposition-25,skepticism-22,judgment-19,justified-17,language
+359,Logical Form_5 Descriptions and Analysis.txt,proposition-16,boy-14,propositions-14,russell-13,logical-11,language
+360,Private Language_2 The Significance of the Issue.txt,language-24,private-23,argument-15,name-13,tractatus-13,language
+361,Singular Propositions_2 Reasons for Singular Propositions The modal argument.txt,propositions-20,paul-18,expressed-15,argument-11,property-11,language
+362,Self Knowledge_1 The Distinctiveness of SelfKnowledge.txt,states-27,mental-19,selfknowledge-18,one-15,thesis-11,mind
+363,Neutral Monism_1 Neutrality.txt,neutral-53,entities-23,mental-20,monism-18,physical-16,mind
+364,Physicalism_14 The Case Against Physicalism I Qualia and Consciousness.txt,physicalism-12,argument-12,mary-10,physical-10,know-8,mind
+365,Descartes Epistemology_2 The Methods Foundationalism and Doubt.txt,doubt-40,descartes-27,method-19,knowledge-16,first-16,mind
+366,Logic and Artificial Intelligence_8 Towards a Formalization of Common Sense.txt,formalization-20,sense-18,common-17,reasoning-13,knowledge-9,mind
+367,Phenomenal Intentionality_1 Introduction.txt,intentionality-20,phenomenal-18,states-10,theory-9,consciousness-8,mind
+368,States of Affairs_2 Thoughts and States of Affairs.txt,affairs-101,possible-56,states-54,state-48,thoughts-29,mind
+369,Concepts_1 The ontology of concepts.txt,mental-46,view-35,concepts-32,representations-28,representation-17,mind
+370,Intentionality_9 Can intentionality be naturalized.txt,intentionality-29,intentional-23,one-17,mental-16,see-15,mind
+371,Mental Representation in Medieval Philosophy_3 Peter Olivi and the Rejection of Formal Sameness.txt,species-22,theory-10,object-8,cognition-7,olivi-7,mind
+372,Propositions_2 Roles for Propositions Modality.txt,propositions-17,sense-13,thought-12,false-10,frege-9,mind
+373,Eliminative Materialism_5 Concluding Comments.txt,eliminative-9,materialism-9,mind-7,account-5,theory-5,mind
+374,Skepticism_1 Knowledge Justification and Skepticism.txt,know-13,skepticism-12,even-11,proposition-9,justified-9,mind
+375,Epistemological Problems of Perception_2 Metaphysical Solutions to the Central Problem.txt,perceptual-45,objects-41,perception-40,direct-35,experience-29,mind
+376,Eliminative Materialism_2 Contemporary Eliminative Materialism.txt,mental-26,states-22,folk-20,eliminative-19,psychology-19,mind
+377,Cognitive Science_3 Representation and Computation.txt,cognitive-9,mind-7,science-6,brain-5,thinking-4,mind
+378,Metaethics_4 IsOught and the Open Question Argument.txt,moral-49,thinking-26,properties-24,thought-19,one-19,mind
+379,Consciousness_5 The explanatory question How can consciousness exist.txt,consciousness-33,one-21,might-13,question-11,physical-11,mind
+380,Immanuel Kant_2 Kants project in the Critique of Pure Reason.txt,world-37,priori-30,kant-23,knowledge-22,human-22,mind
+381,Neutral Monism_5 Contemporary Versions of Neutral Monism.txt,neutral-48,properties-47,physical-43,mental-38,monism-32,mind
+382,The Analysis of Knowledge_3 The Gettier Problem.txt,knowledge-8,cases-8,justified-7,true-7,belief-7,mind
+383,Reasons for Action  Justification  Motivation  Explanation_3 Motivating and Explanatory Reasons.txt,reason-144,reasons-108,motivating-60,fact-59,mental-38,mind
+384,Singular Propositions_3 Reasons for Singular Propositions The argument from indexicals and demonstratives.txt,belief-27,day-25,thought-23,perry-22,sense-22,mind
+385,Knowledge by Acquaintance vs  Description_8 Concluding Remarks.txt,acquaintance-54,knowledge-17,acquainted-11,relation-9,one-8,mind
+386,Cognitive Science_1 History.txt,mental-5,mind-3,psychology-3,around-3,explain-2,mind
+387,Intentionality_10 Is intentionality exhibited by all mental phenomena.txt,mental-41,consciousness-39,phenomenal-30,intentionality-26,states-23,mind
+388,Externalism About Mental Content_3 Responses to the Classic Arguments.txt,contents-17,content-15,thought-13,belief-12,experiments-10,mind
+389,Sense Data_1  What Are Sense Data.txt,sense-29,data-24,aware-15,perception-12,things-9,mind
+390,Folk Psychology as Mental Simulation_7 Conclusion.txt,mindreading-3,cognitive-3,philosophers-2,human-2,philosophical-2,mind
+391,Folk Psychology as Mental Simulation_5 Simulation Theory and TheoryTheory.txt,mental-27,theory-23,simulation-19,states-18,mind-14,mind
+392,Consciousness and Intentionality_8 Consciousness in Mind.txt,conscious-41,one-30,states-30,consciousness-27,state-25,mind
+393,Donald Davidson_4 Knowledge and Belief.txt,davidson-29,knowledge-28,truth-27,attitudes-25,idea-22,mind
+394,Moritz Schlick_3 Early Epistemology.txt,schlick-16,concepts-9,scientific-8,knowledge-8,truth-6,mind
+395,Consciousness_7 Theories of consciousness.txt,theories-7,consciousness-4,specific-3,many-2,sorts-2,mind
+396,The Frege Hilbert Controversy_3 FregeBackground And Initial Differences.txt,consistency-19,frege-15,sentences-15,thoughts-13,hilbert-11,mind
+397,A Priori Justification and Knowledge_2 What sorts of propositions can be a priori justified and known all and only modal propositions.txt,priori-19,world-13,true-11,contingent-11,know-9,mind
+398,Connectionism_4 Strengths and Weaknesses of Neural Network Models.txt,neural-8,brain-6,models-6,kind-5,networks-4,mind
+399,The Computational Theory of Mind_7 Arguments against computationalism.txt,computational-19,physical-16,model-15,temporal-14,mental-12,mind
+400,The Problem of Perception_3 Theories of Experience.txt,experience-153,one-77,perception-62,see-61,sensedatum-59,mind
+401,Other Minds_1 The Traditional Epistemological Problem.txt,one-60,knowledge-59,behavior-44,mind-41,minds-38,mind
+402,Embodied Cognition_6 Sharper Divides Over Embodied Cognition.txt,cognition-38,cognitive-34,embodied-31,extended-26,science-23,mind
+403,Folk Psychology as Mental Simulation_2 What is Meant by Mental Simulation.txt,mental-95,simulation-73,visual-55,cognitive-43,state-31,mind
+404,Bernard Bolzano_12 Metaphilosophy and History of Philosophy.txt,philosophy-6,bolzano-5,concept-3,philosophizing-3,knowledge-2,mind
+405,Externalism About Mental Content_4 The Scope of Externalism.txt,states-13,content-12,mental-11,contents-10,thoughts-9,mind
+406,Intentionality_3 The relational nature of singular thoughts.txt,concrete-13,thoughts-12,singular-12,belief-11,relations-9,mind
+407,The Philosophy of Neuroscience_4 Consciousness Explained.txt,consciousness-16,experience-13,conscious-11,color-10,one-8,mind
+408,Eliminative Materialism_1 A Brief History.txt,mental-23,states-15,eliminative-14,materialism-11,commonsense-9,mind
+409,Descartes Epistemology_4 The Cogito and Doubt.txt,doubt-48,cogito-43,descartes-34,knowledge-21,thinking-17,mind
+410,Physicalism_4 Supervenience Physicalism Further Issues.txt,physicalism-38,world-37,problem-20,physical-19,mental-14,mind
+411,Behaviorism_2 Three Types of Behaviorism.txt,behaviorism-9,psychology-5,behavior-5,mental-5,states-5,mind
+412,Other Minds_4 Thinking about Mind Prior to the Twentieth Century.txt,others-22,work-16,one-12,mind-10,find-10,mind
+413,William of Ockham_6 Theory of Knowledge.txt,cognition-16,theory-10,intuitive-10,species-9,abstractive-9,mind
+414,Mental Imagery_3 Imagery in the Age of Scientific Psychology.txt,imagery-40,mental-29,thought-22,psychology-19,images-16,mind
+415,Mental Representation_9 Thought and Language.txt,properties-13,mental-8,democracy-8,dying-8,semantic-7,mind
+416,Descartes Epistemology_1 Conception of Knowledge.txt,knowledge-19,ideas-18,descartes-14,see-13,perfect-12,mind
+417,Folk Psychology as Mental Simulation_6 Simulation Theory Pros and Cons.txt,mental-25,mindreading-16,states-16,false-15,goldman-12,mind
+418,Causal Theories of Mental Content_1 Introduction.txt,content-4,mental-3,attempt-2,explain-2,thoughts-2,mind
+419,Alfred North Whitehead_8 Whiteheads Influence.txt,whitehead-18,process-13,thought-7,whiteheadian-7,philosophical-6,mind
+420,Knowledge by Acquaintance vs  Description_4 Acquaintance Thought and A Priori Knowledge.txt,thought-14,knowledge-10,acquaintance-9,acquainted-8,truth-6,mind
+421,The Analysis of Knowledge_8 Epistemic Luck.txt,luck-12,knowledge-7,condition-7,analysis-5,epistemic-4,mind
+422,Embodied Cognition_1 Embodied vs Traditional Cognitive Science.txt,cognitive-19,cognition-16,science-12,embodied-9,processing-4,mind
+423,The Analysis of Knowledge_12 Pragmatic Encroachment.txt,knowledge-19,pragmatic-14,encroachment-13,important-11,bank-6,mind
+424,Intentionality_8 Is intensionality a criterion of intentionality.txt,reports-20,intentionality-16,intentional-14,intensionality-11,knowledge-11,mind
+425,Ren Descartes_3 A New Metaphysics.txt,descartes-73,mind-42,god-41,senses-37,intellect-27,mind
+426,Embodied Cognition_4 Embodiment vs Tradition on Three Issues.txt,cognitive-47,embodied-30,cognition-30,body-24,alia-22,mind
+427,Physicalism_5 Supervenience Physicalism as Minimal Physicalism.txt,physicalism-16,states-12,philosophy-8,mind-8,psychological-6,mind
+428,Consciousness_3 Problems of Consciousness.txt,consciousness-6,questions-5,one-5,three-3,features-3,mind
+429,The Analysis of Knowledge_6 Doing Without Justification.txt,knowledge-16,justification-15,theory-12,kreliabilism-9,causal-8,mind
+430,Alfred Jules Ayer_5 Knowledge.txt,knowledge-9,ayer-6,case-6,sure-5,right-5,mind
+431,Consciousness_6 The functional question Why does consciousness exist.txt,consciousness-45,conscious-28,may-14,one-12,states-12,mind
+432,Cognitive Science_5 Philosophical Relevance.txt,cognitive-15,science-15,neural-11,computational-8,philosophical-8,mind
+433,Mental Imagery_1 Meanings and Connotations of Mental Imagery.txt,imagery-63,mental-26,experience-16,may-13,however-12,mind
+434,Plato_10 Does Plato change his mind about politics.txt,plato-11,works-6,must-5,mind-5,world-5,mind
+435,Neutral Monism_8 Neutral Monism and Other Doctrines.txt,neutral-74,monism-46,physical-35,mental-25,events-25,mind
+436,Consciousness and Intentionality_4 Intentionality and the Analytic Heritage.txt,consciousness-58,experience-45,husserl-40,object-31,intentionality-29,mind
+437,Behaviorism_3 Roots of Behaviorism.txt,behaviorism-19,behavior-11,psychological-10,analytical-9,mental-8,mind
+438,Causal Theories of Mental Content_5 Concluding Remarks.txt,one-4,mental-3,causal-3,theories-3,representations-2,mind
+439,Causal Theories of Mental Content_4 General Objections to Causal Theories of Mental Content.txt,causal-54,mental-41,theories-29,theory-27,content-26,mind
+440,Singular Propositions_1 Fregeanism and Russellianism.txt,thought-29,sense-24,russell-21,propositions-19,frege-16,mind
+441,The Language of Thought Hypothesis_1 Mental Language.txt,mental-61,representations-26,propositional-17,fodor-17,complex-16,mind
+442,Phenomenal Intentionality_6 Challenges for PIT.txt,states-70,intentional-43,phenomenal-31,thoughts-25,content-25,mind
+443,The Frege Hilbert Controversy_4 The Deeper Disagreement.txt,consistency-35,frege-30,thoughts-29,hilbert-23,sentences-23,mind
+444,Mental Representation in Medieval Philosophy_2 Thomas Aquinas and Formal Sameness.txt,aquinas-8,thought-7,species-6,intellect-6,form-5,mind
+445,Knowledge by Acquaintance vs  Description_3 Acquaintance and Noninferential Knowledge.txt,belief-33,acquaintance-32,knowledge-23,beliefs-23,fact-23,mind
+446,Consciousness_9 Specific Theories of Consciousness.txt,consciousness-55,theories-43,conscious-39,states-27,higherorder-24,mind
+447,The Computational Theory of Mind_3 The classical computational theory of mind.txt,mental-36,states-27,machine-23,mentalese-21,cctm-19,mind
+448,The Computational Theory of Mind_5 Computation and representation.txt,content-52,mental-46,intentional-44,syntactic-42,formal-41,mind
+449,Connectionism_6 Connectionist Representation.txt,representations-23,representation-14,distributed-11,connectionist-8,brain-8,mind
+450,The Language of Thought Hypothesis_7 Naturalizing the Mind.txt,mental-10,properties-10,semantic-10,intentionality-10,loth-8,mind
+451,A Priori Justification and Knowledge_7 Even if intuitions can justify can they yield knowledge of the external world.txt,concepts-20,world-14,priori-12,knowledge-11,grounded-11,mind
+452,Certainty_3 Two dimensions of certainty.txt,clear-13,descartes-12,know-11,see-10,certainty-9,mind
+453,Singular Propositions_4 Reasons for Singular Propositions The reduplication argument.txt,bill-44,sally-22,identification-20,thought-18,directly-14,mind
+454,The Analysis of Knowledge_9 Methodological Options.txt,knowledge-9,role-5,craig-3,intuitive-3,one-2,mind
+455,Epistemology_1 The Varieties of Cognitive Success.txt,success-74,cognitive-66,particular-29,kinds-24,instance-24,mind
+456,Ernst Mach_3 Psychology and the Life Sciences.txt,mach-23,evolutionary-15,perception-11,theory-8,process-8,mind
+457,Behaviorism_5 Why be a Behaviorist.txt,behavior-28,skinner-16,mental-10,inner-10,see-9,mind
+458,Propositional Attitude Reports_4 The Naive Russellian theory.txt,belief-32,proposition-24,believes-23,russell-22,thought-20,mind
+459,William of Ockham_3 Logic and Semantics.txt,terms-39,language-31,part-27,ockham-24,mental-23,mind
+460,Externalism About Mental Content_9 Active Externalism.txt,part-11,cognitive-11,notebook-9,might-9,external-7,mind
+461,Moral Non Naturalism_3 Intuitionism.txt,properties-33,moral-31,nonnatural-14,knowledge-11,know-8,mind
+462,Epistemology_5 Sources of Knowledge and Justification.txt,knowledge-34,perceptual-25,priori-19,one-18,introspection-17,mind
+463,Externalism About Mental Content_6 Externalism and Selfknowledge.txt,externalism-27,one-16,content-16,selfknowledge-15,thoughts-14,mind
+464,The Philosophy of Neuroscience_2 Eliminative Materialism and Philosophy Neuralized.txt,folk-19,vector-18,neural-18,pain-18,churchland-17,mind
+465,Thomas Reid_3 Perception and Knowledge of the World.txt,reid-78,objects-56,ideas-55,qualities-45,perception-37,mind
+466,Epistemological Problems of Perception_1 The Problem of the External World.txt,perceptual-16,appearances-14,perception-12,problem-11,external-10,mind
+467,Knowledge by Acquaintance vs  Description_5 Acquaintance and Inferential Knowledge.txt,knowledge-17,one-13,acquaintance-12,probable-12,truth-10,mind
+468,Self Knowledge_2 Doubts about the distinctiveness of selfknowledge.txt,one-12,selfknowledge-10,states-9,cold-9,mental-8,mind
+469,Consciousness_4 The descriptive question What are the features of consciousness.txt,conscious-37,consciousness-35,experience-31,phenomenal-20,structure-18,mind
+470,Willard Van Orman Quine_2 Quines Naturalism and its Implications.txt,science-24,quine-19,knowledge-19,world-15,philosophical-12,mind
+471,The Analysis of Knowledge_10 VirtueTheoretic Approaches.txt,knowledge-12,sosa-11,belief-11,shot-7,accuracy-7,mind
+472,Gottfried Wilhelm Leibniz_6 Epistemology.txt,leibniz-43,mind-19,knowledge-18,truths-18,perceptions-17,mind
+473,Consciousness_1 History of the issue.txt,consciousness-21,century-8,psychology-7,mental-6,nature-5,mind
+474,Descartes Epistemology_9 SelfKnowledge.txt,ideas-32,perception-23,descartes-21,judgments-15,awareness-14,mind
+475,The Language of Thought Hypothesis_8 Individuation of Mentalese Expressions.txt,mentalese-30,mental-21,types-17,different-15,semantically-15,mind
+476,Epistemological Problems of Perception_4 Conclusion.txt,perception-4,epistemological-3,metaphysics-3,certain-3,problems-2,mind
+477,Mental Representation in Medieval Philosophy_6 William Ockham and Mental Language.txt,concept-7,mental-6,theory-4,language-3,representation-3,mind
+478,The Analysis of Knowledge_1 Knowledge as Justified True Belief.txt,belief-23,justification-22,knowledge-18,true-15,one-11,mind
+479,Externalism About Mental Content_5 Externalism and MindBody Theories.txt,state-14,mental-13,states-11,externalism-8,different-7,mind
+480,Intentionality_1 Why is intentionality socalled.txt,mental-14,states-14,intentionality-13,word-7,true-7,mind
+481,Self Knowledge_3 Accounts of SelfKnowledge.txt,selfknowledge-73,one-59,accounts-57,belief-57,states-50,mind
+482,The Language of Thought Hypothesis_2 Scope of LOTH.txt,mental-13,representations-11,perceptual-10,cognitive-7,representational-6,mind
+483,Other Minds_3 The Naturalist Turn.txt,others-17,theory-16,mental-11,work-11,see-11,mind
+484,Moritz Schlick_5 General Theory of Knowledge.txt,schlick-22,knowledge-17,objects-17,concepts-16,intuitive-15,mind
+485,Mental Representation_1 The Representational Theory of Mind.txt,mental-14,states-7,dead-6,processes-5,cognitive-5,mind
+486,Connectionism_9 Connectionism and the Elimination of Folk Psychology.txt,folk-14,psychology-14,desires-7,beliefs-6,brain-5,mind
+487,Mental Imagery_2 PreScientific Views of Imagery.txt,images-41,ideas-41,mental-26,image-26,imagery-25,mind
+488,Mental Representation_6 Content Determination.txt,mental-17,relations-16,content-16,theories-11,representations-8,mind
+489,Intentionality_2 Intentional inexistence.txt,intentionality-13,mental-10,two-9,intentional-9,mind-9,mind
+490,The Language of Thought Hypothesis_3 Mental Computation.txt,mental-29,semantic-26,properties-21,computational-15,computation-15,mind
+491,Consciousness and Intentionality_2 The Interpretation of Intentionality.txt,consciousness-24,conscious-17,sense-16,experience-11,phenomenal-11,mind
+492,Moral Psychology  Empirical Approaches_2 Thought Experiments and the Methods of Ethics.txt,thought-21,responses-14,philosophical-13,moral-13,ethical-11,mind
+493,The Analysis of Knowledge_11 Knowledge First.txt,knowledge-20,williamson-7,fundamental-4,analysis-4,project-4,mind
+494,Externalism About Mental Content_7 Externalism and Mental Causation.txt,causal-12,wide-10,contents-9,mental-7,internal-6,mind
+495,Gottfried Wilhelm Leibniz_2 Overview of Leibnizs Philosophy.txt,leibnizs-12,leibniz-10,philosophy-8,writings-5,thought-4,mind
+496,Causal Theories of Mental Content_2 Some Historical and Theoretical Context.txt,content-30,causal-20,theories-20,mental-20,theory-18,mind
+497,Bertrand Russell_3 Russells Work in Analytic Philosophy.txt,knowledge-27,russell-24,also-12,philosophy-11,logical-9,mind
+498,Embodied Cognition_3 What Embodied Cognition Is.txt,body-24,thesis-19,cognition-18,cognitive-15,embodied-10,mind
+499,Consciousness_10 Conclusion.txt,consciousness-3,comprehensive-1,understanding-1,likely-1,require-1,mind
+500,Consciousness_8 Metaphysical theories of consciousness.txt,physical-29,properties-29,consciousness-20,conscious-19,property-15,mind
+501,George Edward Moore_6 Common Sense and Certainty.txt,moore-20,moores-10,knowledge-9,existence-9,truth-7,mind
+502,Narrow Mental Content_4 Conceptions of Narrow Content.txt,content-100,narrow-66,broad-43,thought-42,context-31,mind
+503,Donald Davidson_2 Action and Mind.txt,events-31,mental-26,action-22,event-22,physical-22,mind
+504,Otto Neurath_3 Neuraths place in logical empiricism physicalism antifoundationalism holism naturalism externalism pragmatism.txt,neurath-57,knowledge-42,language-39,scientific-37,statements-37,mind
+505,The Computational Theory of Mind_4 Neural networks.txt,neural-58,networks-34,models-32,computation-29,computational-25,mind
+506,The Language of Thought Hypothesis_4 Arguments for LOTH.txt,mary-22,john-19,loves-18,mental-16,mechanical-13,mind
+507,The Analysis of Knowledge_2 Lightweight Knowledge.txt,sense-6,true-5,whether-5,one-5,know-4,mind
+508,The Philosophy of Neuroscience_8 Developments over the Second Decade of the TwentyFirst Century.txt,neuroscience-39,cognitive-24,visual-17,systems-16,model-16,mind
+509,Mental Imagery_4 Imagery in Cognitive Science.txt,imagery-204,theory-99,mental-83,kosslyn-71,see-45,mind
+510,Intentionality_6 Direct reference.txt,thoughts-14,concrete-11,reference-11,definite-11,proper-10,mind
+511,The Analysis of Knowledge_7 Is Knowledge Analyzable.txt,one-11,knowledge-10,belief-9,condition-7,would-7,mind
+512,Alfred North Whitehead_5 Philosophy of Education.txt,education-27,whitehead-17,thought-9,stage-9,scientific-9,mind
+513,Narrow Mental Content_1 Introduction.txt,content-23,narrow-11,intrinsic-11,properties-9,mental-8,mind
+514,Folk Psychology as Mental Simulation_1 The Origins and Varieties of ST.txt,simulation-10,mindreading-7,mental-5,goldman-5,empirical-5,mind
+515,Alfred Jules Ayer_3 Perception.txt,objects-12,ayer-11,perceptual-11,perception-10,experience-10,mind
+516,Mental Representation_7 Internalism and Externalism.txt,content-19,narrow-10,mental-9,representations-7,mind-6,mind
+517,Teleological Theories of Mental Content_1 Broad Aims.txt,content-41,theories-26,representation-23,mental-22,teleological-18,mind
+518,Alfred North Whitehead_4 Philosophy of Science.txt,whitehead-35,nature-28,perception-15,sense-14,qualities-14,mind
+519,Consciousness and Intentionality_5 Varieties of Intentionalism.txt,intentionality-19,content-19,mind-13,analytic-9,mental-9,mind
+520,The Language of Thought Hypothesis_5 The Connectionist Challenge.txt,structure-15,neural-13,classical-13,systematicity-10,constituency-10,mind
+521,Epistemology_2 What is Knowledge.txt,know-20,knowing-20,knowledge-17,belief-14,fact-12,mind
+522,Mental Representation in Medieval Philosophy_4 Henry of Ghent and John Duns Scotus on Mental Content.txt,mental-8,view-7,distinction-7,representation-4,divine-4,mind
+523,Francis Herbert Bradley_6 Metaphysics.txt,reality-25,relations-20,bradley-19,one-19,thought-14,mind
+524,Mental Representation_8 The Computational Theory of Mind.txt,mental-23,states-19,cognitive-14,processes-12,representations-10,mind
+525,Externalism About Mental Content_8 Externalism and Cognitive Science.txt,content-10,narrow-9,see-8,knowledge-8,contents-7,mind
+526,Consciousness_2 Concepts of Consciousness.txt,conscious-49,consciousness-32,one-32,states-28,might-20,mind
+527,Bertrand Russell_5 Russells Theory of Neutral Monism.txt,physical-8,mental-7,russell-6,view-5,neutral-4,mind
+528,Ernst Cassirer_4 The Philosophy of Symbolic Forms.txt,cassirer-10,world-9,forms-8,symbolic-8,thought-7,mind
+529,Eliminative Materialism_3 Arguments For Eliminative Materialism.txt,folk-34,states-28,psychology-26,like-16,cognitive-15,mind
+530,The Problem of Perception_4 Conclusion.txt,perception-3,debate-2,philosophy-2,nature-2,ordinary-2,mind
+531,Behaviorism_4 Popularity of Behaviorism.txt,behavior-14,see-9,mental-9,behaviorism-8,one-5,mind
+532,Knowledge by Acquaintance vs  Description_1 The Distinction.txt,knowledge-59,acquaintance-41,russell-28,truths-21,one-17,mind
+533,Consciousness and Intentionality_9 Why It Matters.txt,consciousness-34,intentionality-31,mind-28,one-12,states-11,mind
+534,Consciousness and Intentionality_6 How Rich is Consciousness.txt,consciousness-27,one-26,intentionality-26,phenomenal-22,intentionalism-20,mind
+535,Externalism About Mental Content_Introduction.txt,mental-16,externalism-12,content-9,states-8,property-6,mind
+536,Pseudo Dionysius the Areopagite_5 Afterlife Significance and Influence.txt,dionysius-11,also-5,first-4,great-4,thought-3,mind
+537,Descartes Epistemology_3 First Meditation Doubting Arguments.txt,doubt-36,dreaming-25,waking-13,know-13,awake-12,mind
+538,Karl Popper_8 Immutable Laws and Contingent Trends.txt,future-18,knowledge-17,social-15,human-13,scientific-11,mind
+539,Folk Psychology as Mental Simulation_4 The Role of Mental Simulation in Mindreading.txt,mental-62,simulation-51,mindreading-43,events-26,gordon-23,mind
+540,The Analysis of Knowledge_13 Contextualism.txt,contextualism-10,different-6,context-6,one-5,knowledge-5,mind
+541,The Analysis of Knowledge_5 Modal Conditions.txt,knowledge-31,safety-24,condition-23,sensitivity-21,would-14,mind
+542,Behaviorism_8 Conclusion.txt,behavior-8,behaviorism-6,inner-4,cognitive-3,skinner-3,mind
+543,Embodied Cognition_2 Some Historical Anchors for Embodied Cognitive Science.txt,embodied-27,cognition-24,cognitive-24,thompson-15,science-14,mind
+544,Cognitive Science_2 Methods.txt,cognitive-15,computational-11,mind-10,science-9,people-9,mind
+545,Aristotles Logic_6 Demonstrations and Demonstrative Sciences.txt,knowledge-24,aristotle-18,demonstration-16,premises-13,science-10,mind
+546,Epistemology_6 The Limits of Cognitive Success.txt,biv-48,know-35,hands-25,argument-24,one-19,mind
+547,Logic and Artificial Intelligence_10 Taxonomic Representation and Reasoning.txt,logic-7,nonmonotonic-7,taxonomic-5,systems-4,knowledge-3,mind
+548,Phenomenal Intentionality_5 Cognitive phenomenology.txt,phenomenology-64,phenomenal-60,thought-35,cognitive-26,thoughts-25,mind
+549,Folk Psychology as Mental Simulation_3 Two Types of Simulation Processes.txt,simulation-44,mechanism-32,processes-31,cognitive-25,process-22,mind
+550,A Priori Justification and Knowledge_8 What is a priori knowledge.txt,knowledge-32,true-14,justified-12,priori-12,belief-11,mind
+551,The Contents of Perception_3 Varieties of Content.txt,contents-89,experience-51,experiences-40,content-35,one-29,phenomenology
+552,The Deflationary Theory of Truth_6 The Deflationary Theory of Falsity.txt,falsity-8,concept-7,case-5,truth-4,fprop-4,phenomenology
+553,Modal Logic_10 Two Dimensional Semantics.txt,time-23,possible-12,world-10,truth-10,evaluation-10,phenomenology
+554,Alfred Tarski_5 Further reading.txt,logical-8,truth-8,tarski-7,bibliography-5,feferman-5,phenomenology
+555,Teleological Theories of Mental Content_3 Teleosemantic Theories.txt,theory-93,content-91,representation-62,theories-48,representations-43,phenomenology
+556,Phenomenal Intentionality_1 Introduction.txt,intentionality-20,phenomenal-18,states-10,theory-9,consciousness-8,phenomenology
+557,Abstract Objects_4 The Way of Example.txt,distinction-7,way-5,abstract-5,unclear-5,objects-4,phenomenology
+558,Concepts_1 The ontology of concepts.txt,mental-46,view-35,concepts-32,representations-28,representation-17,phenomenology
+559,The Contents of Perception_5 How Are Objects Represented In Perception.txt,experience-43,cube-23,experiences-21,one-19,contents-19,phenomenology
+560,Qualia_5 Qualia and the Explanatory Gap.txt,gap-12,concepts-10,phenomenal-6,physical-6,subjective-6,phenomenology
+561,Mental Representation in Medieval Philosophy_3 Peter Olivi and the Rejection of Formal Sameness.txt,species-22,theory-10,object-8,cognition-7,olivi-7,phenomenology
+562,Epistemological Problems of Perception_2 Metaphysical Solutions to the Central Problem.txt,perceptual-45,objects-41,perception-40,direct-35,experience-29,phenomenology
+563,The Contents of Perception_6 Concepts and Content.txt,concepts-41,experience-39,content-25,conceptualism-21,one-18,phenomenology
+564,Willard Van Orman Quine_3 The AnalyticSynthetic Distinction and the Argument Against Logical Empiricism.txt,quine-31,language-28,sentences-22,experience-20,analytic-18,phenomenology
+565,Carl Hempel_4 Scientific Explanations .txt,hempel-15,explanations-14,conditions-11,truth-10,would-9,phenomenology
+566,The Correspondence Theory of Truth_8 The Correspondence Theory and Its Competitors.txt,truth-44,correspondence-41,theory-31,true-28,propositions-17,phenomenology
+567,Mental Representation_3 Conceptual and NonConceptual Representation.txt,content-15,states-9,phenomenology-9,representations-8,nonconceptual-8,phenomenology
+568,Qualia_10 Which Creatures Undergo States with Qualia.txt,qualia-8,plants-8,behavior-6,nothing-5,phenomenal-4,phenomenology
+569,Qualia_1 Uses of the Term Qualia.txt,qualia-18,term-11,experience-10,phenomenal-9,intrinsic-9,phenomenology
+570,Representational Theories of Consciousness_3 Arguments in Favor of the Representational Theory of Sensory Qualities.txt,experience-27,one-18,sensory-16,properties-15,difference-13,phenomenology
+571,Logical Constants_3 A Davidsonian approach.txt,clauses-8,recursive-8,phi-8,truth-7,theory-6,phenomenology
+572,Logical Constants_5 Permutation invariance.txt,logical-47,domain-30,permutation-30,invariance-24,objects-21,phenomenology
+573,Intentionality_10 Is intentionality exhibited by all mental phenomena.txt,mental-41,consciousness-39,phenomenal-30,intentionality-26,states-23,phenomenology
+574,Wittgensteins Logical Atomism_1 Names and Objects.txt,propositions-9,names-8,tractatus-7,particulars-6,objects-6,phenomenology
+575,Abstract Objects_6 The Way of Abstraction.txt,abstraction-30,abstract-21,objects-15,principle-12,functional-11,phenomenology
+576,Truthmakers_2 Which range of truths are eligible to be made true if any are.txt,true-76,truthmakers-70,negative-61,truth-48,truths-47,phenomenology
+577,The Deflationary Theory of Truth_5 Is Truth A Property.txt,property-25,true-10,truth-9,existence-9,say-6,phenomenology
+578,Tarskis Truth Definitions_2 Some kinds of truth definition on the 1933 pattern.txt,definition-26,truth-23,formulas-19,satisfaction-18,language-17,phenomenology
+579,Vagueness_4 Manyvalued Logic.txt,logic-11,manyvalued-9,truthvalues-9,truth-8,lines-7,phenomenology
+580,The Contents of Perception_1 What are Perceptual Experiences.txt,experience-12,phenomenology-5,experiences-4,modalities-4,five-3,phenomenology
+581,Donald Davidson_4 Knowledge and Belief.txt,davidson-29,knowledge-28,truth-27,attitudes-25,idea-22,phenomenology
+582,Moritz Schlick_3 Early Epistemology.txt,schlick-16,concepts-9,scientific-8,knowledge-8,truth-6,phenomenology
+583,Formalism in the Philosophy of Mathematics_5 Nominalist Formalism.txt,concrete-9,goodman-8,quine-6,objects-4,however-4,phenomenology
+584,The Problem of Perception_3 Theories of Experience.txt,experience-153,one-77,perception-62,see-61,sensedatum-59,phenomenology
+585,Sense Data_3 Objections to Sense Data.txt,sense-60,data-47,physical-30,objects-26,one-23,phenomenology
+586,Moral Non Naturalism_4 Explanatory Impotence.txt,properties-22,moral-16,best-12,experiences-9,explanation-8,phenomenology
+587,The Problem of Perception_1 The Ordinary Conception of Perceptual Experience.txt,experience-61,objects-31,perceptual-25,character-16,ordinary-15,phenomenology
+588,Singular Propositions_62 Temporal Problems for Singular Propositions Qualitative Change.txt,properties-51,object-28,sitting-25,property-22,time-20,phenomenology
+589,Tarskis Truth Definitions_1 The 1933 programme and the semantic conception.txt,definition-19,truth-13,metalanguage-13,language-12,set-12,phenomenology
+590,Logical Constructions_9 The Construction of Matter.txt,russell-16,matter-15,sense-5,data-5,objects-5,phenomenology
+591,Immanuel Kant_4 The transcendental deduction.txt,selfconsciousness-33,kant-32,objective-31,representations-30,experience-29,phenomenology
+592,The Philosophy of Neuroscience_4 Consciousness Explained.txt,consciousness-16,experience-13,conscious-11,color-10,one-8,phenomenology
+593,Alfred North Whitehead_6 Metaphysics.txt,actual-30,whitehead-26,world-13,experience-13,subjective-13,phenomenology
+594,Abstract Objects_3 The Way of Negation.txt,abstract-41,space-28,objects-27,sense-22,object-21,phenomenology
+595,Tarskis Truth Definitions_3 The 1956 definition and its offspring.txt,definition-14,one-11,constants-9,variables-9,truth-9,phenomenology
+596,Knowledge by Acquaintance vs  Description_4 Acquaintance Thought and A Priori Knowledge.txt,thought-14,knowledge-10,acquaintance-9,acquainted-8,truth-6,phenomenology
+597,The Contents of Perception_7 Content and Phenomenology.txt,experiences-28,experience-27,content-21,phenomenology-21,properties-16,phenomenology
+598,Embodied Cognition_5 Empirical Domains for Embodied Cognition.txt,alia-39,visual-23,experience-23,moral-19,embodied-17,phenomenology
+599,Alfred Jules Ayer_2 Meaning and Truth.txt,meaning-20,statement-16,verifiable-12,ayer-11,truth-9,phenomenology
+600,Moral Cognitivism vs  Non Cognitivism_5 Can The CognitivistNoncognitivist Distinction Be Sustained.txt,moral-18,noncognitivism-15,truth-14,sentences-13,conditions-12,phenomenology
+601,Abstract Objects_2 Historical Remarks.txt,distinction-12,abstract-11,one-6,objects-6,ideas-6,phenomenology
+602,The Contents of Perception_8 Theories of Intentionality for Experience.txt,content-35,experience-25,theories-20,phenomenology-18,contents-17,phenomenology
+603,Philosophy of Mathematics_3 Platonism.txt,mathematical-54,theory-27,objects-22,mathematics-19,theories-18,phenomenology
+604,Mental Representation_4 Representationalism and Phenomenalism.txt,phenomenal-29,experience-21,properties-19,experiences-9,see-8,phenomenology
+605,Vagueness_8 Is All Vagueness Linguistic.txt,vagueness-18,vague-14,language-9,objects-7,music-7,phenomenology
+606,Mental Imagery_1 Meanings and Connotations of Mental Imagery.txt,imagery-63,mental-26,experience-16,may-13,however-12,phenomenology
+607,Qualia_4 Functionalism and Qualia.txt,qualia-17,functional-12,one-9,experiences-8,inverted-7,phenomenology
+608,Consciousness and Intentionality_4 Intentionality and the Analytic Heritage.txt,consciousness-58,experience-45,husserl-40,object-31,intentionality-29,phenomenology
+609,Abstract Objects_7 Further Reading.txt,abstract-8,objects-6,types-4,existence-3,makes-2,phenomenology
+610,Structured Propositions_3 Some Recent Accounts of Structured Propositions.txt,propositions-131,proposition-93,property-59,truth-55,relation-45,phenomenology
+611,Narrow Mental Content_3 Arguments for Narrow Content.txt,content-42,phenomenal-23,narrow-22,argument-18,intentionality-17,phenomenology
+612,Truthmakers_3 What Motivates the Doctrine of Truthmakers.txt,truth-55,true-27,truthmakers-25,upon-21,world-17,phenomenology
+613,Causal Theories of Mental Content_5 Concluding Remarks.txt,one-4,mental-3,causal-3,theories-3,representations-2,phenomenology
+614,The Language of Thought Hypothesis_1 Mental Language.txt,mental-61,representations-26,propositional-17,fodor-17,complex-16,phenomenology
+615,Logical Truth_2 The Mathematical Characterization of Logical Truth.txt,logical-94,truth-55,validity-52,modeltheoretic-41,one-33,phenomenology
+616,Phenomenal Intentionality_6 Challenges for PIT.txt,states-70,intentional-43,phenomenal-31,thoughts-25,content-25,phenomenology
+617,Ernst Mach_1 Summary.txt,mach-16,experience-10,process-8,priori-8,new-8,phenomenology
+618,The Contents of Perception_4 The Representation of Properties.txt,experience-72,properties-52,one-45,experiences-38,represented-28,phenomenology
+619,Representational Theories of Consciousness_2 Varieties of Representationalism.txt,sensory-19,qualities-16,representationalism-13,view-13,representation-10,phenomenology
+620,States of Affairs_1 Introducing States of Affairs.txt,affairs-46,states-38,state-16,possible-14,objects-12,phenomenology
+621,Mental Representation_5 Imagery.txt,representation-11,representations-9,imagery-7,properties-7,distinction-7,phenomenology
+622,Connectionism_6 Connectionist Representation.txt,representations-23,representation-14,distributed-11,connectionist-8,brain-8,phenomenology
+623,Modal Logic_6 Possible Worlds Semantics.txt,truth-21,logic-16,true-12,box-12,world-11,phenomenology
+624,Phenomenal Intentionality_4 Arguments for PIT.txt,pit-51,intentionality-49,phenomenal-47,states-36,argument-34,phenomenology
+625,Mental Representation in Medieval Philosophy_1 The Ancient Background and the Formation of the Concept.txt,representations-9,latin-6,representation-6,senses-5,used-4,phenomenology
+626,The Correspondence Theory of Truth_1 History of the Correspondence Theory.txt,correspondence-21,truth-21,true-14,theory-13,definition-11,phenomenology
+627,Qualia_8 Qualia as Intrinsic Nonrepresentational Properties of Experiences.txt,earth-17,inverted-16,qualia-13,experiences-13,properties-7,phenomenology
+628,Religious Language_4 Religious Minimalism.txt,religious-57,discourse-25,truth-23,different-19,wittgenstein-16,phenomenology
+629,Qualia_9 Relational Theories of Qualia.txt,character-14,phenomenal-13,experiences-12,experience-9,perceiver-7,phenomenology
+630,Thomas Reid_3 Perception and Knowledge of the World.txt,reid-78,objects-56,ideas-55,qualities-45,perception-37,phenomenology
+631,Knowledge by Acquaintance vs  Description_5 Acquaintance and Inferential Knowledge.txt,knowledge-17,one-13,acquaintance-12,probable-12,truth-10,phenomenology
+632,Moritz Schlick_4 Special Relativity.txt,schlick-11,representational-9,scheme-6,may-6,relativity-5,phenomenology
+633,Consciousness_4 The descriptive question What are the features of consciousness.txt,conscious-37,consciousness-35,experience-31,phenomenal-20,structure-18,phenomenology
+634,The Deflationary Theory of Truth_1 History of Deflationism.txt,truth-12,true-9,sentence-6,shakespeare-5,caesar-4,phenomenology
+635,Mental Representation in Medieval Philosophy_6 William Ockham and Mental Language.txt,concept-7,mental-6,theory-4,language-3,representation-3,phenomenology
+636,States of Affairs_6 Conclusion.txt,affairs-6,states-5,must-3,objects-3,properties-3,phenomenology
+637,Wittgensteins Logical Atomism_4 The Epistemology of Logical Atomism.txt,wittgenstein-16,objects-12,tractarian-9,propositions-9,analysis-9,phenomenology
+638,Logical Consequence_3 Mathematical Tools Models and Proofs.txt,logical-49,truth-34,consequence-32,proof-31,one-30,phenomenology
+639,The Contents of Perception_9 Directions for Future Research.txt,research-3,contents-3,experience-3,perceptual-3,experiences-2,phenomenology
+640,Qualia_6 Qualia and Introspection.txt,qualities-14,experience-12,experiences-8,patch-8,qualia-7,phenomenology
+641,The Language of Thought Hypothesis_2 Scope of LOTH.txt,mental-13,representations-11,perceptual-10,cognitive-7,representational-6,phenomenology
+642,Moritz Schlick_5 General Theory of Knowledge.txt,schlick-22,knowledge-17,objects-17,concepts-16,intuitive-15,phenomenology
+643,Mental Representation_6 Content Determination.txt,mental-17,relations-16,content-16,theories-11,representations-8,phenomenology
+644,Neutral Monism_4 Traditional Versions of Neutral Monism.txt,russell-45,neutral-44,monism-24,experience-20,james-19,phenomenology
+645,Possible Worlds_1 Possible Worlds and Modal Logic.txt,world-44,possible-43,modal-38,truth-33,logic-28,phenomenology
+646,Consciousness and Intentionality_2 The Interpretation of Intentionality.txt,consciousness-24,conscious-17,sense-16,experience-11,phenomenal-11,phenomenology
+647,Logical Truth_1 The Nature of Logical Truth.txt,logical-99,see-46,truths-41,truth-34,view-28,phenomenology
+648,Consciousness and Intentionality_7 Consciousness and SelfConsciousness.txt,experience-28,differences-25,phenomenal-23,character-23,one-21,phenomenology
+649,George Edward Moore_6 Common Sense and Certainty.txt,moore-20,moores-10,knowledge-9,existence-9,truth-7,phenomenology
+650,Type Theory_2 Simple Type Theory and the lambdaCalculus.txt,type-30,theory-14,classes-10,form-9,objects-8,phenomenology
+651,Qualia_7 Representational Theories of Qualia.txt,experiences-20,representational-19,qualia-17,experience-16,contents-13,phenomenology
+652,Formalism in the Philosophy of Mathematics_8 Contemporary Formalism.txt,formalism-19,proofs-14,one-12,mathematical-10,truth-10,phenomenology
+653,Logicism and Neologicism_5 Modal NeoLogicism.txt,zalta-9,object-6,world-5,one-4,possible-4,phenomenology
+654,The Problem of Perception_2 The Problem of Perception.txt,argument-28,one-26,aware-24,ordinary-24,object-20,phenomenology
+655,Alfred Tarski_2 Truth.txt,tarski-52,language-26,truth-23,theory-22,lgtc-20,phenomenology
+656,The Deflationary Theory of Truth_7 Objections to Deflationism.txt,truth-127,deflationism-57,theory-52,true-44,one-39,phenomenology
+657,Phenomenal Intentionality_2 The phenomenal intentionality theory.txt,phenomenal-72,states-67,intentional-46,intentionality-40,pit-35,phenomenology
+658,Intentionality_7 Are there intentional objects.txt,objects-33,intentional-18,properties-18,theory-14,nonexistent-9,phenomenology
+659,Alfred Jules Ayer_3 Perception.txt,objects-12,ayer-11,perceptual-11,perception-10,experience-10,phenomenology
+660,Mental Representation_7 Internalism and Externalism.txt,content-19,narrow-10,mental-9,representations-7,mind-6,phenomenology
+661,Teleological Theories of Mental Content_1 Broad Aims.txt,content-41,theories-26,representation-23,mental-22,teleological-18,phenomenology
+662,Qualia_2 Which Mental States Possess Qualia.txt,feeling-10,example-7,experience-6,images-6,experiences-5,phenomenology
+663,Rudolf Carnap_2 Toward the Aufbau.txt,carnap-46,could-15,world-13,space-12,experience-10,phenomenology
+664,States of Affairs_4 States of Affairs as Complexes.txt,affairs-59,state-34,states-26,parts-21,objects-17,phenomenology
+665,The Correspondence Theory of Truth_2 Truthbearers Truthmakers Truth.txt,property-6,concept-6,truth-4,talk-4,one-4,phenomenology
+666,Mental Representation in Medieval Philosophy_4 Henry of Ghent and John Duns Scotus on Mental Content.txt,mental-8,view-7,distinction-7,representation-4,divine-4,phenomenology
+667,Mental Representation_8 The Computational Theory of Mind.txt,mental-23,states-19,cognitive-14,processes-12,representations-10,phenomenology
+668,Truthmakers_1 What is a Truthmaker.txt,truthmaking-67,grounding-58,truthmaker-52,true-44,truth-39,phenomenology
+669,George Edward Moore_2 The Refutation of Idealism.txt,moore-17,idealism-10,thesis-10,moores-9,experience-9,phenomenology
+670,Concepts_3 Empiricism and nativism about concepts.txt,concepts-28,concept-19,see-15,representations-15,innate-14,phenomenology
+671,Qualia_3 Are Qualia Irreducible NonPhysical Entities.txt,physical-18,mary-15,experience-14,like-13,facts-12,phenomenology
+672,Consciousness and Intentionality_6 How Rich is Consciousness.txt,consciousness-27,one-26,intentionality-26,phenomenal-22,intentionalism-20,phenomenology
+673,The Deflationary Theory of Truth_4 The Utility of Deflationary Truth.txt,truth-18,concept-12,conjunction-12,esprop-9,quantifier-9,phenomenology
+674,Neutral Monism_7 Objections to Neutral Monism.txt,neutral-28,experience-18,monism-15,awareness-12,russell-8,phenomenology
+675,The Deflationary Theory of Truth_2 The Equivalence Schema.txt,truth-15,theory-11,schema-11,deflationism-10,according-9,phenomenology
+676,The Contents of Perception_2 Contents as Accuracy Conditions.txt,experiences-72,experience-69,contents-62,one-54,accuracy-44,phenomenology
+677,Moral Cognitivism vs  Non Cognitivism_1 A More Detailed General Description.txt,moral-23,express-16,sentences-13,one-10,truth-9,phenomenology
+678,The Correspondence Theory of Truth_4 Arguments for the Correspondence Theory.txt,correspondence-7,view-5,theory-4,truth-4,obviousness-2,phenomenology
+679,The Analytic Synthetic Distinction_1 The Intuitive Distinction.txt,would-14,analytic-13,logical-12,see-11,truth-9,phenomenology
+680,Freges Theorem and Foundations for Arithmetic_6 Philosophical Questions Surrounding Freges Theorem.txt,principle-50,frege-46,objects-31,basic-27,law-27,phenomenology
+681,Donald Davidson_3 Meaning and Truth.txt,theory-82,meaning-57,language-43,davidson-27,truth-27,phenomenology
+682,Necessary and Sufficient Conditions_2 The Standard Theory Truthfunctions and Reciprocity.txt,necessary-18,condition-15,true-13,sufficient-11,truth-8,phenomenology
+683,Quantifiers and Quantification_4 Quantification and Ontology.txt,logic-47,objects-47,quantification-43,existence-33,domain-32,phenomenology
+684,Phenomenal Intentionality_5 Cognitive phenomenology.txt,phenomenology-64,phenomenal-60,thought-35,cognitive-26,thoughts-25,phenomenology
+685,Necessary and Sufficient Conditions_4 Inferences Reasons for Thinking and Reasons Why.txt,reason-43,truth-23,case-23,conditions-19,thinking-18,phenomenology
+686,Moral Cognitivism vs  Non Cognitivism_3 Motivations for Noncognitivism.txt,moral-83,properties-42,one-33,judgments-27,argument-25,ethics
+687,Virtue Ethics_3 Objections to virtue ethics.txt,virtue-54,ethics-26,virtues-25,action-19,one-15,ethics
+688,Moral Cognitivism vs  Non Cognitivism_2 Principal Varieties in More Detail.txt,moral-80,sentences-31,judgments-31,express-28,one-26,ethics
+689,Metaethics_4 IsOught and the Open Question Argument.txt,moral-49,thinking-26,properties-24,thought-19,one-19,ethics
+690,Virtue Ethics_2 Forms of Virtue Ethics.txt,virtue-47,good-24,ethics-21,virtues-19,eudaimonia-15,ethics
+691,Alfred Jules Ayer_7 Ethics.txt,moral-24,ayer-11,emotivism-9,claims-7,feelings-5,ethics
+692,Immanuel Kant_6 The highest good and practical postulates.txt,good-37,highest-34,moral-27,kant-25,reason-24,ethics
+693,Herbert Feigl_5 Writings on Value Judgment Humanism and Religion.txt,feigl-18,ibid-14,ethical-10,see-9,scientific-8,ethics
+694,Moral Psychology  Empirical Approaches_7 Conclusion.txt,moral-3,surprise-3,psychology-3,inquiry-3,progress-2,ethics
+695,Moral Psychology  Empirical Approaches_3 Moral Responsibility.txt,moral-24,responsibility-23,responsible-14,universe-13,agents-12,ethics
+696,Moral Naturalism_3 Contemporary Naturalism.txt,moral-98,good-70,properties-53,actions-51,property-43,ethics
+697,Thomas Reid_6 Moral Philosophy.txt,moral-91,reid-37,reids-30,principles-22,first-19,ethics
+698,Francis Herbert Bradley_4 Ethics.txt,moral-11,self-11,morality-8,one-5,individual-5,ethics
+699,Moral Non Naturalism_2 The Open Question Argument.txt,argument-25,open-24,moral-21,question-20,competent-13,ethics
+700,Bertrand Russell_6 Russells Atheism.txt,russell-34,argument-33,religion-28,god-27,must-19,ethics
+701,Moral Non Naturalism_4 Explanatory Impotence.txt,properties-22,moral-16,best-12,experiences-9,explanation-8,ethics
+702,Embodied Cognition_5 Empirical Domains for Embodied Cognition.txt,alia-39,visual-23,experience-23,moral-19,embodied-17,ethics
+703,Moral Cognitivism vs  Non Cognitivism_5 Can The CognitivistNoncognitivist Distinction Be Sustained.txt,moral-18,noncognitivism-15,truth-14,sentences-13,conditions-12,ethics
+704,Russells Moral Philosophy_8 Objections to Emotivism and Relativism.txt,russell-37,would-33,good-23,optative-22,moral-20,ethics
+705,Metaethics_1 General Observations.txt,morality-13,justice-9,others-8,moral-6,people-6,ethics
+706,Consequentialism_7 Arguments for Consequentialism.txt,consequentialism-15,consequentialists-12,moral-11,might-10,even-8,ethics
+707,Moral Psychology  Empirical Approaches_6 Moral Disagreement.txt,moral-60,disagreement-30,nisbett-19,honor-18,attitudes-12,ethics
+708,Immanuel Kant_7 The unity of nature and freedom.txt,nature-51,kant-23,judgment-19,reflecting-15,moral-12,ethics
+709,Moral Non Naturalism_6 Explaining Supervenience.txt,moral-59,properties-54,supervenience-43,natural-41,would-22,ethics
+710,Moral Non Naturalism_5 Motivation.txt,moral-44,one-21,nonnaturalist-18,properties-16,motivated-14,ethics
+711,Bernard Bolzano_8 Philosophy of Religion and Theology.txt,bolzano-19,religion-16,sense-8,religious-8,probability-8,ethics
+712,Moral Psychology  Empirical Approaches_1 Introduction What is Moral Psychology.txt,philosophical-20,empirical-17,psychology-16,moral-15,ethical-9,ethics
+713,Virtue Ethics_4 Future Directions.txt,virtue-18,ethics-16,virtues-14,one-6,others-4,ethics
+714,Moores Moral Philosophy_2 Metaethical Innovations.txt,moral-18,moore-17,ought-17,good-17,view-16,ethics
+715,Consequentialism_5 Consequences of What Rights Relativity and Rules.txt,rule-31,doctor-27,transplant-25,would-22,moral-20,ethics
+716,Moral Non Naturalism_3 Intuitionism.txt,properties-33,moral-31,nonnatural-14,knowledge-11,know-8,ethics
+717,William of Ockham_7 Ethics.txt,ockham-12,good-11,choose-9,moral-8,act-8,ethics
+718,Moral Non Naturalism_7 Methodology.txt,moral-7,common-6,sense-6,argument-6,nonnaturalism-5,ethics
+719,Bernard Bolzano_5 Ethics.txt,bolzano-29,ought-16,moral-14,law-11,principle-10,ethics
+720,Consequentialism_2 What is Consequentialism.txt,consequentialist-13,consequentialism-12,moral-11,theories-11,theory-11,ethics
+721,Moral Naturalism_2 Objections to Naturalism.txt,moral-45,question-35,facts-31,natural-29,normative-25,ethics
+722,Metaethics_6 Morals motives and reasons.txt,moral-19,reason-18,morality-17,would-14,one-12,ethics
+723,Moral Psychology  Empirical Approaches_2 Thought Experiments and the Methods of Ethics.txt,thought-21,responses-14,philosophical-13,moral-13,ethical-11,ethics
+724,Metaethics_3 Naturalism Nonnaturalism and Supernaturalism.txt,convention-8,moral-8,morality-7,conventions-7,natural-5,ethics
+725,Metaethics_8 Moral Principles and Particular Judgments.txt,moral-9,principles-7,one-7,wrong-5,general-4,ethics
+726,Alfred North Whitehead_7 Religion.txt,religion-49,whitehead-30,science-23,god-20,life-19,ethics
+727,Moral Psychology  Empirical Approaches_4 Virtue Ethics and Skepticism About Character.txt,virtue-30,character-24,moral-22,psychology-17,ethics-15,ethics
+728,Moral Cognitivism vs  Non Cognitivism_6 Conclusion.txt,moral-4,claim-4,rather-2,realist-2,discourse-2,ethics
+729,Moores Moral Philosophy_1 Nonnaturalism and the OpenQuestion Argument.txt,moral-13,judgements-9,moore-9,property-9,true-7,ethics
+730,Moral Naturalism_1 Introduction.txt,moral-84,facts-44,naturalism-39,natural-26,claims-24,ethics
+731,George Edward Moore_3 Principia Ethica.txt,value-41,ethical-29,intrinsic-26,moore-22,moores-18,ethics
+732,Moores Moral Philosophy_5 Influence.txt,moral-20,moore-12,philosophers-10,moores-9,views-8,ethics
+733,Metaethics_5 Moral Epistemology.txt,moral-18,judgments-13,one-11,might-9,principles-7,ethics
+734,Russells Moral Philosophy_9 Objections to Objectivism.txt,moral-15,argument-15,russell-14,good-13,goodness-12,ethics
+735,Hans Reichenbach_6 Ethics and Free Will.txt,ethical-10,action-7,reichenbach-7,reichenbachs-5,free-5,ethics
+736,Immanuel Kant_5 Morality and freedom.txt,kant-47,act-37,moral-32,law-28,freedom-26,ethics
+737,Moral Cognitivism vs  Non Cognitivism_1 A More Detailed General Description.txt,moral-23,express-16,sentences-13,one-10,truth-9,ethics
+738,Moral Cognitivism vs  Non Cognitivism_4 Problems Objections and Response Strategies.txt,moral-42,one-35,attitudes-30,sentences-24,noncognitivists-21,ethics
+739,Gertrude Elizabeth Margaret Anscombe_5 Moral Philosophy.txt,one-32,moral-25,ethics-16,anscombe-14,action-14,ethics
+740,Metaethics_7 Freedom and Responsibility.txt,moral-8,responsibility-6,free-6,one-5,sense-3,ethics

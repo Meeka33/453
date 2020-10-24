@@ -1,0 +1,1 @@
+ Below the reader will find, in the order in which they are introduced in PM, the following symbols, which are briefly described. More detail is provided in what follows: [These were used by Peano. More recently, \(\forall\) has been added for symmetry with \(\exists\). Some scholars see the quantfiers \((\phi)\) and \((\exists \phi\)) as substitutional.]

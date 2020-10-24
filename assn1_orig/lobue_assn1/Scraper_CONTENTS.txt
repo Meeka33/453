@@ -1,0 +1,12 @@
+
+Main scrapy directory:  philosophy/ 
+HTML sources: philosophy/philanguage
+Text files broken into topics (used for TF-IDF):  philosophy/corpus
+
+Crawled saved text in JS:  philosophy/items.jl
+Web Crawler: philosophy/philosophy/spiders/articles-spider.py
+Output log:  philosophy/scrapy_log_output.txt
+Saved Corpus Vocabulary: philosophy/vocab.txt
+
+Main Crawler Run File: philosophy/run_articles_spider.py
+
